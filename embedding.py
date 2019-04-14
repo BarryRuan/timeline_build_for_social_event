@@ -20,7 +20,7 @@ usage:
     from embedding import EmbeddingModel
 
     model = EmbeddingModel()
-    wordVec = model.similarity('man', 'woman')
+    cosSim = model.similarity('man', 'woman')
 
     (3) To run the demo, please run:
 
