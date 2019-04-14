@@ -3,6 +3,7 @@
 #
 # Script for preprocessing tweets by Romain Paulus
 # with small modifications by Jeffrey Pennington
+# source: https://nlp.stanford.edu/projects/glove/
 
 def tokenize input
 

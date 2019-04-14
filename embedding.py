@@ -43,6 +43,8 @@ billion words and 100 dimension vector presentation for each word.
 
 To load other models, please modify the following WORD_PRESENTATION_FILE.
 Other optional models are in ./glove_embedding directory
+
+source: https://nlp.stanford.edu/projects/glove/
 """
 WORD_PRESENTATION_FILE = './glove_embedding/glove.6B.100d.txt'
 
