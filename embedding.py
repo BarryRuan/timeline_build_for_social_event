@@ -51,7 +51,9 @@ WORD_PRESENTATION_FILE = './glove_embedding/glove.6B.100d.txt'
 class EmbeddingModel:
     def __init__(self, embedding_model_file=WORD_PRESENTATION_FILE):
         self.embedding_model_file = embedding_model_file
-        self.wordDim = int(embedding_model_file[-7:-5])
+        for i in embedding_model_file.split('.'):
+            if len(i) <= 5 and 'd' in i:
+                self.wordDim = int(i[:-1])
         self.wordVectors, self.vocSize = self.loadEmbedding_()
 
 
@@ -88,8 +90,8 @@ class EmbeddingModel:
 
     def similarity(self, word1, word2):
         """Calculate cosine similarity for the input words: word1 and word2"""
-        wordvec0 = self.embed(words1)
-        wordvec1 = self.embed(words2)
+        wordvec0 = self.embed(word1)
+        wordvec1 = self.embed(word2)
         ip = np.sum(wordvec0 * wordvec1)
         norm0 = np.linalg.norm(wordvec0)
         norm1 = np.linalg.norm(wordvec1)
@@ -115,4 +117,4 @@ if __name__ == '__main__':
             words = words.strip().split()
             similarity = model.similarity(words[0], words[1])
             print("{} and {} have a cos-similarity of {}"\
-                    .format(words[0], words[1], cosSim))
+                    .format(words[0], words[1], similarity))
