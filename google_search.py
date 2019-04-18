@@ -6,7 +6,6 @@ import urllib.request
 from time import sleep
 from googleapiclient.discovery import build
 
-query = "site:cnn.com U.S. China Trade War"
 site = "cnn.com"
 title_class = "pg-headline"
 num_search_url = 100
@@ -31,29 +30,30 @@ def extract_pagehead(url):
     return pagehead.text
   
 
-def google_search(search_term, **kwargs):
-    service = build("customsearch", "v1", developerKey=API_KEY)
-    res = service.cse().list(q=search_term, cx=CSE_ID, **kwargs).execute()
-    return res
+def google_search(query_input):
+    query = "site:{} {}".format(site, query_input)
+    list_url = list(search_news(query, tld="co.in", num=num_search_url, stop=num_search_url, pause=3))
+    current_date = date.today()
 
-list_url = list(search_news(query, tld="co.in", num=num_search_url, stop=num_search_url, pause=3))
-current_date = date.today()
+    info = {'results':[]}
 
-list_info = []
+    print("extracting timeline.....")
+    for url in list_url:
+        news_date = extract_date(url)
+        if news_date:
+            if news_date < current_date:
+                current_date = news_date
+                pagehead = extract_pagehead(url)
+                info['results'].append({
+                    'date': news_date, 
+                    'title' : pagehead, 
+                    'url' : url})
+                print(news_date)
+                print(pagehead)
+                print(url)
+                print(" ")
+    return info
 
-print("extracting timeline.....")
-for url in list_url:
-    news_date = extract_date(url)
-    if news_date:
-        if news_date < current_date:
-            current_date = news_date
-            pagehead = extract_pagehead(url)
-            list_info.append([news_date, pagehead, url])
-            print(news_date)
-            print(pagehead)
-            print(url)
-            print(" ")
 
-
-            
+                
 
