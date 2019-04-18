@@ -16,9 +16,9 @@ from rake_nltk import Rake
 
 
 # simple function
-def simple_rake(text):
-	rakeExtract = Rake(min_length=2, max_length=4)
-	rakeExtract.extract_keywords_from_text(text)
+def simple_rake(text, range=10):
+    rakeExtract = Rake(min_length=2, max_length=4)
+    rakeExtract.extract_keywords_from_text(text)   
     if range > 0:
         result = rakeExtract.get_ranked_phrases_with_scores()
         top_words = []

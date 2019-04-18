@@ -1,10 +1,12 @@
 from googlesearch import search, search_news
 from bs4 import BeautifulSoup
 import re
+from keywords import simple_rake
 from datetime import date
 import urllib.request
 from time import sleep
 from googleapiclient.discovery import build
+
 
 site = "cnn.com"
 title_class = "pg-headline"
@@ -51,6 +53,7 @@ def google_search(query_input):
                 print(news_date)
                 print(pagehead)
                 print(url)
+                print(simple_rake(pagehead))
                 print(" ")
     return info
 
