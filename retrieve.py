@@ -196,7 +196,9 @@ def retrieveDocument(query, inverted_index, weighting_documents, weighting_query
     processed_query = []
     for word in query:
          processed_query.append(PorterStemmer().stem(word))
-    print(processed_query)
+
+    print("Query now")
+    print(query)
 
     # find the set of documents that contains at least one word from the query
     document_set = []
@@ -267,6 +269,20 @@ def writeOutput(queryID, sorted_cos, document_weight, query_weight, num_results)
             for i in range(num_results):
                 out_file.write(queryID + " " + str(sorted_cos[i][0]) + " " + str(sorted_cos[i][1]) + "\n")
 
+def prepareDocment():
+    input_file = 'content_represented_by_index.pickle'
+    corpus, word_index = readPreprocessedContent(input_file)
+    N = len(corpus)
+    inverted_index = {}
+
+    doc_weighting = "tfidf"
+    query_weighting = "tfidf"
+
+    indexDocument(doc_weighting, corpus, inverted_index, word_index)
+
+    return inverted_index
+
+
 def main():
 
     input_file = 'content_represented_by_index.pickle'
@@ -282,6 +298,7 @@ def main():
     query_weighting = "tfidf"
 
     indexDocument(doc_weighting, corpus, inverted_index, word_index)
+    print("Index Document Completed!")
     with open("queries") as f:
         queries = f.readlines()
         for query in queries:

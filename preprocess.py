@@ -65,8 +65,7 @@ def preprocess(list_filename, if_remove_stopwords, stem_type, if_lower):
             header = next(reader, None)
             for row in reader:
                 index = int(row[0])
-                if index % 100 == 0:
-                    print(index)
+                print(index)
 
                 row.pop(0)
                 row[0] = int(row[0])

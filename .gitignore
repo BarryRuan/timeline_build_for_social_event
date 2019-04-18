@@ -1,3 +1,6 @@
 *.pickle
 *.csv
 *.txt
+*.output
+__pycache__
+queries
