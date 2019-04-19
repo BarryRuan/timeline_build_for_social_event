@@ -6,11 +6,12 @@ from datetime import date
 import urllib.request
 from time import sleep
 from googleapiclient.discovery import build
+import embedding
 
 
 site = "cnn.com"
 title_class = "pg-headline"
-num_search_url = 100
+num_search_url = 20
 
 CSE_ID = "001991282022784705633:tfydvzge3ue"
 API_KEY = "AIzaSyCO0YDXwTFGkgjjEbEXj-wWOhzjFMUkmMA"
@@ -30,7 +31,22 @@ def extract_pagehead(url):
     soup =  BeautifulSoup(urlf, "html.parser" )
     pagehead = soup.find_all("h1")[0]
     return pagehead.text
-  
+
+
+def recursive_search(query_input, date=date.today()):
+    model = embedding.EmbeddingModel()
+    query = "site:{} {}".format(site, query_input)
+    list_url = list(search_news(query, tld="co.in", num=num_search_url, stop=num_search_url, pause=3))
+    for url in list_url:
+        news_date = extract_date(url)
+        if news_date:
+            if news_date < date:
+                pagehead = extract_pagehead(url)
+                keywords = simple_rake(pagehead)
+                print(pagehead)
+                for keyword in keywords:
+                    print("{} : {}".format(keyword[0], model.phraseSimilarity(keyword[1], query_input)))
+
 
 def google_search(query_input):
     query = "site:{} {}".format(site, query_input)
@@ -57,6 +73,11 @@ def google_search(query_input):
                 print(" ")
     return info
 
+def main():
+    recursive_search("China U.S. Trade War")
+
+if __name__ == "__main__":
+    main()
 
                 
 
