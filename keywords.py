@@ -17,15 +17,13 @@ from rake_nltk import Rake
 
 # simple function
 def simple_rake(text):
-	rakeExtract = Rake(min_length=2, max_length=4)
-	rakeExtract.extract_keywords_from_text(text)
+    rakeExtract = Rake(min_length=1, max_length=4)
+    rakeExtract.extract_keywords_from_text(text)
     result = rakeExtract.get_ranked_phrases_with_scores()
     top_words = []
     for (score, phrase) in result:
-        if float(score) < 10:
-            break
         top_words.append(phrase)
-    return top_words
+    return result
 
 
 def writeback(content_keyword, title_keyword, newsID, writer):
