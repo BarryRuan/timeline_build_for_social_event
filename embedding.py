@@ -72,7 +72,7 @@ class EmbeddingModel:
 
     def preprocess_(self, word):
         """ Run 'ruby -n preprocess-word.rb < inpur_word' in command line """
-        input_word = word.encode('utf-8')
+        input_word = str.lower(word).encode('utf-8')
         cmd = ['ruby', '-n', 'preprocess-word.rb']
         result = subprocess.run(cmd, stdout=subprocess.PIPE, input=input_word)
         out = result.stdout.decode('utf-8').strip()
