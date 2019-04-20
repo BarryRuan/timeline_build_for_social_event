@@ -4,7 +4,7 @@ Word embeding model used to calculate word similarity
 embedding model is pretrained by glove.
 
 the default pre-trained embedding model is:
-    glove.6B.100d.txt in ./glove_embedding 
+    glove.6B.200d.txt in ./glove_embedding 
 
 usage: 
 
@@ -46,7 +46,7 @@ Other optional models are in ./glove_embedding directory
 
 source: https://nlp.stanford.edu/projects/glove/
 """
-WORD_PRESENTATION_FILE = './glove_embedding/glove.6B.100d.txt'
+WORD_PRESENTATION_FILE = './glove_embedding/glove.6B.200d.txt'
 
 class EmbeddingModel:
     def __init__(self, embedding_model_file=WORD_PRESENTATION_FILE):
@@ -122,7 +122,7 @@ class EmbeddingModel:
         return cosSim
 
 if __name__ == '__main__':
-    model = EmbeddingModel()
+    # model = EmbeddingModel()
     while True:
         option = input("- Please enter a number (1 for single word embedding,"\
                 + " 2 for 2 words embedding and cos similarity, 0 for exit): ")

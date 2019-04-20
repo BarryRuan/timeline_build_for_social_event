@@ -139,13 +139,29 @@ body {
 </style>
 </head>
 <body>
+      <div style="width:1300px; margin:0 auto;">
+
+    <form action="timespan" style="font-size: 40pt; color:aliceblue">
+        Chronological Approach <br>
+        (Try: Yingying Zhang, U.S. China Trade War)<br>
+        <input type="text" name="query" value="" style="font-size:40pt">
+        <input type="submit" value="Search" style="font-size:40pt">
+        </form>
+        
+        <form action="recursive" style="font-size: 40pt; color:aliceblue">
+        Recursive Approach <br>
+        (Slow! Try: Iraq War, Elisa Lam Death)<br>
+        <input type="text" name="query" value="" style="font-size:40pt">
+        <input type="submit" value="Search" style="font-size:40pt">
+        </form>
+      </div>
 
 <div class="timeline">
 {% for timestamp in results %}
  <div class="container {{timestamp['position']}}">
     <div class="content">
       <h2>{{timestamp['date']}}</h2>
-      <a href="{{timestamp['url']}}">{{timestamp['title']}}</a>
+      <a style="font-size: 20pt" href="{{timestamp['url']}}">{{timestamp['title']}}</a>
     </div>
   </div>
 {% endfor %}
