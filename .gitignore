@@ -1,4 +1,5 @@
 *.pickle
+*.zip
 *.csv
 *.txt
 *.output
