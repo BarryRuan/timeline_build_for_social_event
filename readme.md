@@ -1,6 +1,6 @@
 ## EECS486 Final Project
 
-To Run the code, you need to first download the dataset from our drive with the following url. 
+To Run the code, you need to first download the dataset from our drive with the following url and put it in the same directory as the code base. 
 https://drive.google.com/open?id=1YmZxEh0iqEf2lhirP8OBlMEr4JV7P4TR 
  
  Then set up the environment with the following code. 

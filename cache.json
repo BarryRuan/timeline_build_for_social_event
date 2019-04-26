@@ -1,4 +1,113 @@
 {
+    "recursive": {
+        "Elisa Lam Death": {
+            "results": [
+                {
+                    "date": "2013-02-21",
+                    "title": "How did woman's body come to be in L.A. hotel water tank?",
+                    "url": "https://www.cnn.com/2013/02/21/us/california-hotel-water-corpse/index.html"
+                },
+                {
+                    "date": "2013-06-20",
+                    "title": "Woman's water tank death ruled accidental",
+                    "url": "https://www.cnn.com/2013/06/20/us/california-water-tank-death/index.html"
+                },
+                {
+                    "date": "2013-02-28",
+                    "title": "L.A. hotel sued over corpse found in water tank",
+                    "url": "https://www.cnn.com/2013/02/28/us/california-water-tank-corpse-suit/index.html"
+                },
+                {
+                    "date": "2019-02-07",
+                    "title": "Body of woman found in a suitcase in Connecticut identified ",
+                    "url": "https://www.cnn.com/2019/02/07/us/woman-found-in-suitcase-greenwich-identified/index.html"
+                },
+                {
+                    "date": "2019-04-11",
+                    "title": "Police confirm that a woman who died after 8 days in a Dominican Republic ICU was a missing New York tourist",
+                    "url": "https://www.cnn.com/2019/04/11/us/missing-americans-dominican-republic-identification/index.html"
+                },
+                {
+                    "date": "2019-03-31",
+                    "title": "Police: Body of college student found by hunters",
+                    "url": "https://www.cnn.com/videos/justice/2019/03/31/college-student-body-found-sot-presser-vpx.wis"
+                },
+                {
+                    "date": "2019-02-12",
+                    "title": "Valerie Reyes hit her head before suspect put her in suitcase and dumped it, complaint says",
+                    "url": "https://www.cnn.com/2019/02/12/us/valerie-reyes-dead-suspect-arrest/index.html"
+                },
+                {
+                    "date": "2019-02-07",
+                    "title": "Body of woman found in a suitcase in Connecticut identified ",
+                    "url": "https://www.cnn.com/2019/02/07/us/woman-found-in-suitcase-greenwich-identified/index.html"
+                },
+                {
+                    "date": "2019-02-09",
+                    "title": "Valerie Reyes called her mom in panic. She vanished within days and her body was found in a suitcase.",
+                    "url": "https://www.cnn.com/2019/02/09/us/valerie-reyes-greenwich-dead/index.html"
+                }
+            ]
+        },
+        "Iraq War": {
+            "results": [
+                {
+                    "date": "2013-10-30",
+                    "position": "left",
+                    "title": "Operation Iraqi Freedom and Operation New Dawn Fast Facts",
+                    "url": "https://www.cnn.com/2013/10/30/world/meast/operation-iraqi-freedom-and-operation-new-dawn-fast-facts/index.html"
+                },
+                {
+                    "date": "2018-03-20",
+                    "position": "right",
+                    "title": "15 years later, Americans remain split over Iraq War",
+                    "url": "https://www.cnn.com/2018/03/20/politics/pew-poll-iraq-war-march-2018/index.html"
+                },
+                {
+                    "date": "2019-01-17",
+                    "position": "left",
+                    "title": "An expensive lesson in hubris for the United States ",
+                    "url": "https://www.cnn.com/2019/01/17/opinions/expensive-lesson-in-hubris-for-the-united-states-bergen/index.html"
+                },
+                {
+                    "date": "2013-03-19",
+                    "position": "right",
+                    "title": "Why the war in Iraq was fought for Big Oil",
+                    "url": "https://www.cnn.com/2013/03/19/opinion/iraq-war-oil-juhasz/index.html"
+                },
+                {
+                    "date": "2013-03-18",
+                    "position": "left",
+                    "title": "Iraq, 10 years later: A people in need",
+                    "url": "https://www.cnn.com/2013/03/18/world/iyw-iraq-10-years-later/index.html"
+                },
+                {
+                    "date": "2011-12-18",
+                    "position": "right",
+                    "title": "Key dates in the Iraq war",
+                    "url": "https://www.cnn.com/2011/12/18/world/meast/iraq-war-timeline/index.html"
+                },
+                {
+                    "date": "2019-04-05",
+                    "position": "left",
+                    "title": "US expected to designate Iran's Islamic Revolutionary Guard Corps as a foreign terrorist organization",
+                    "url": "https://www.cnn.com/2019/04/05/politics/us-irgc-terror-organization/index.html"
+                },
+                {
+                    "date": "2019-02-11",
+                    "position": "right",
+                    "title": "US general: Thousands of ISIS fighters in Syria, Iraq",
+                    "url": "https://www.cnn.com/videos/politics/2019/02/11/general-joseph-votel-syria-isis-sot-vpx.cnn"
+                },
+                {
+                    "date": "2019-04-05",
+                    "position": "left",
+                    "title": "US expected to designate Iran's Islamic Revolutionary Guard Corps as a foreign terrorist organization",
+                    "url": "https://www.cnn.com/2019/04/05/politics/us-irgc-terror-organization/index.html"
+                }
+            ]
+        }
+    },
     "timespan": {
         "9-11 attack": {
             "results": [
@@ -588,6 +697,154 @@
                 {
                     "date": "2017-06-20",
                     "position": "right",
+                    "title": "FBI treating visiting scholar's disappearance as kidnapping",
+                    "url": "https://www.cnn.com/2017/06/20/us/chinese-scholar-disappearance-kidnapping-trnd/index.html"
+                }
+            ]
+        },
+        "Yingying Zhang": {
+            "results": [
+                {
+                    "date": "2017-10-04",
+                    "position": "left",
+                    "title": "Illinois man could face death penalty in missing Chinese student case",
+                    "url": "https://www.cnn.com/2017/10/04/us/illinois-missing-chinese-student-suspect-charges/index.html"
+                },
+                {
+                    "date": "2017-07-20",
+                    "position": "right",
+                    "title": "Missing Chinese student: Suspect pleads not guilty to kidnapping",
+                    "url": "https://www.cnn.com/2017/07/20/us/chinese-scholar-kidnapping-suspect-plea/index.html"
+                },
+                {
+                    "date": "2017-07-12",
+                    "position": "left",
+                    "title": "Suspect indicted in Chinese student's disappearance ",
+                    "url": "https://www.cnn.com/2017/07/12/us/chinese-scholar-kidnapping-suspect-indicted/index.html"
+                },
+                {
+                    "date": "2017-07-05",
+                    "position": "right",
+                    "title": "Prosecutor: Suspect in Chinese student's kidnapping discussed 'ideal victim'",
+                    "url": "https://www.cnn.com/2017/07/05/us/illinois-kidnapping-suspect-bail-denied/index.html"
+                },
+                {
+                    "date": "2017-07-04",
+                    "position": "left",
+                    "title": "What we know about the FetLife fetish site",
+                    "url": "https://www.cnn.com/2017/07/04/us/fetlife-illinois-kidnapping-suspect/index.html"
+                },
+                {
+                    "date": "2017-07-02",
+                    "position": "right",
+                    "title": "Suspect in student's kidnapping linked to abduction fantasy web page, FBI says",
+                    "url": "https://www.cnn.com/2017/07/02/us/chinese-scholar-kidnapping-suspect/index.html"
+                },
+                {
+                    "date": "2017-06-29",
+                    "position": "left",
+                    "title": "Missing student's family has theories on disappearance",
+                    "url": "https://www.cnn.com/2017/06/29/us/chinese-scholar-disappearance-family-speaks/index.html"
+                },
+                {
+                    "date": "2017-06-20",
+                    "position": "right",
+                    "title": "FBI treating visiting scholar's disappearance as kidnapping",
+                    "url": "https://www.cnn.com/2017/06/20/us/chinese-scholar-disappearance-kidnapping-trnd/index.html"
+                }
+            ]
+        },
+        "Yingying Zhang Disappearance": {
+            "results": [
+                {
+                    "date": "2017-10-04",
+                    "position": "left",
+                    "title": "Illinois man could face death penalty in missing Chinese student case",
+                    "url": "https://www.cnn.com/2017/10/04/us/illinois-missing-chinese-student-suspect-charges/index.html"
+                },
+                {
+                    "date": "2017-07-20",
+                    "position": "right",
+                    "title": "Missing Chinese student: Suspect pleads not guilty to kidnapping",
+                    "url": "https://www.cnn.com/2017/07/20/us/chinese-scholar-kidnapping-suspect-plea/index.html"
+                },
+                {
+                    "date": "2017-07-12",
+                    "position": "left",
+                    "title": "Suspect indicted in Chinese student's disappearance ",
+                    "url": "https://www.cnn.com/2017/07/12/us/chinese-scholar-kidnapping-suspect-indicted/index.html"
+                },
+                {
+                    "date": "2017-07-05",
+                    "position": "right",
+                    "title": "Prosecutor: Suspect in Chinese student's kidnapping discussed 'ideal victim'",
+                    "url": "https://www.cnn.com/2017/07/05/us/illinois-kidnapping-suspect-bail-denied/index.html"
+                },
+                {
+                    "date": "2017-07-04",
+                    "position": "left",
+                    "title": "Why did Illinois kidnapping suspect attend rally for victim?",
+                    "url": "https://www.cnn.com/2017/07/04/us/illinois-kidnapping-suspect-rally/index.html"
+                },
+                {
+                    "date": "2017-07-02",
+                    "position": "right",
+                    "title": "Suspect in student's kidnapping linked to abduction fantasy web page, FBI says",
+                    "url": "https://www.cnn.com/2017/07/02/us/chinese-scholar-kidnapping-suspect/index.html"
+                },
+                {
+                    "date": "2017-06-29",
+                    "position": "left",
+                    "title": "Missing student's family has theories on disappearance",
+                    "url": "https://www.cnn.com/2017/06/29/us/chinese-scholar-disappearance-family-speaks/index.html"
+                },
+                {
+                    "date": "2017-06-20",
+                    "position": "right",
+                    "title": "FBI treating visiting scholar's disappearance as kidnapping",
+                    "url": "https://www.cnn.com/2017/06/20/us/chinese-scholar-disappearance-kidnapping-trnd/index.html"
+                }
+            ]
+        },
+        "Yingying Zhang disappearance": {
+            "results": [
+                {
+                    "date": "2017-10-04",
+                    "title": "Illinois man could face death penalty in missing Chinese student case",
+                    "url": "https://www.cnn.com/2017/10/04/us/illinois-missing-chinese-student-suspect-charges/index.html"
+                },
+                {
+                    "date": "2017-07-20",
+                    "title": "Missing Chinese student: Suspect pleads not guilty to kidnapping",
+                    "url": "https://www.cnn.com/2017/07/20/us/chinese-scholar-kidnapping-suspect-plea/index.html"
+                },
+                {
+                    "date": "2017-07-12",
+                    "title": "Suspect indicted in Chinese student's disappearance ",
+                    "url": "https://www.cnn.com/2017/07/12/us/chinese-scholar-kidnapping-suspect-indicted/index.html"
+                },
+                {
+                    "date": "2017-07-05",
+                    "title": "Prosecutor: Suspect in Chinese student's kidnapping discussed 'ideal victim'",
+                    "url": "https://www.cnn.com/2017/07/05/us/illinois-kidnapping-suspect-bail-denied/index.html"
+                },
+                {
+                    "date": "2017-07-04",
+                    "title": "Why did Illinois kidnapping suspect attend rally for victim?",
+                    "url": "https://www.cnn.com/2017/07/04/us/illinois-kidnapping-suspect-rally/index.html"
+                },
+                {
+                    "date": "2017-07-02",
+                    "title": "Suspect in student's kidnapping linked to abduction fantasy web page, FBI says",
+                    "url": "https://www.cnn.com/2017/07/02/us/chinese-scholar-kidnapping-suspect/index.html"
+                },
+                {
+                    "date": "2017-06-29",
+                    "title": "Missing student's family has theories on disappearance",
+                    "url": "https://www.cnn.com/2017/06/29/us/chinese-scholar-disappearance-family-speaks/index.html"
+                },
+                {
+                    "date": "2017-06-20",
                     "title": "FBI treating visiting scholar's disappearance as kidnapping",
                     "url": "https://www.cnn.com/2017/06/20/us/chinese-scholar-disappearance-kidnapping-trnd/index.html"
                 }
