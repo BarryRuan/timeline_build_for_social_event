@@ -12,7 +12,7 @@ import embedding
 model = None
 site = "cnn.com"
 title_class = "pg-headline"
-num_search_url = 100
+num_search_url = 250
 num_recursion = 3
 
 CSE_ID = "001991282022784705633:tfydvzge3ue"

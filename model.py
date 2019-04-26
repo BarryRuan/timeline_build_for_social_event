@@ -15,7 +15,9 @@ def search_recur():
     status_code = 200
     query = request.args.get('query')
     info = {}
-    if query in cache['recursive']:
+    if 'recursive' not in cache:
+        cache['recursive'] = {}
+    if  query in cache['recursive']: 
         info = cache['recursive'][query]
     else:
         info = google_search.recursive_model(query)
@@ -36,7 +38,9 @@ def search():
     status_code = 200
     query = request.args.get('query')
     info = {}
-    if query in cache['timespan']:
+    if 'timespan' not in cache: 
+        cache['timespan'] = {}
+    if 'timespan' in cache and query in cache['timespan']:
         info = cache['timespan'][query]
     else:
         info = google_search.google_search(query)

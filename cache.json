@@ -1,256 +1,5 @@
 {
-    "recursive": {
-        "9-11 attack": {
-            "results": [
-                {
-                    "date": "2019-03-02",
-                    "position": "left",
-                    "title": "Rep. Ilhan Omar blasts GOP over poster linking her with the 9/11 attacks",
-                    "url": "https://www.cnn.com/2019/03/02/politics/west-virginia-ilhan-omar-poster/index.html"
-                },
-                {
-                    "date": "2019-04-12",
-                    "position": "right",
-                    "title": "'We've been sleepwalking on racism:' New Zealand's soul-searching in the wake of Christchurch attacks",
-                    "url": "https://www.cnn.com/2019/04/12/asia/christchurch-racism-islam-intl/index.html"
-                },
-                {
-                    "date": "2018-11-25",
-                    "position": "left",
-                    "title": "Mumbai terror attacks: The deep legacy of India's 9/11, a decade on",
-                    "url": "https://www.cnn.com/2018/11/25/opinions/10-year-anniversary-mumbai-terror-attacks-intl/index.html"
-                }
-            ]
-        },
-        "Elisa Lam Death": {
-            "results": [
-                {
-                    "date": "2013-02-21",
-                    "title": "How did woman's body come to be in L.A. hotel water tank?",
-                    "url": "https://www.cnn.com/2013/02/21/us/california-hotel-water-corpse/index.html"
-                },
-                {
-                    "date": "2013-06-20",
-                    "title": "Woman's water tank death ruled accidental",
-                    "url": "https://www.cnn.com/2013/06/20/us/california-water-tank-death/index.html"
-                },
-                {
-                    "date": "2013-02-28",
-                    "title": "L.A. hotel sued over corpse found in water tank",
-                    "url": "https://www.cnn.com/2013/02/28/us/california-water-tank-corpse-suit/index.html"
-                },
-                {
-                    "date": "2019-02-13",
-                    "title": "Police arrest man in killing of woman found in suitcase",
-                    "url": "https://www.cnn.com/videos/us/2019/02/13/valerie-reyes-man-arrested-body-found-suitcase-police-sot-ots-vpx.hln"
-                },
-                {
-                    "date": "2019-03-14",
-                    "title": "After man's wife is found dead, police say they will take another look at previous wife's death ",
-                    "url": "https://www.cnn.com/2019/03/14/us/north-carolina-diana-alejandra-keel/index.html"
-                },
-                {
-                    "date": "2019-03-14",
-                    "title": "After man's wife is found dead, police say they will take another look at previous wife's death ",
-                    "url": "https://www.cnn.com/2019/03/14/us/north-carolina-diana-alejandra-keel/index.html"
-                },
-                {
-                    "date": "2019-04-06",
-                    "title": "Suspect arrested in road rage killing of a 10-year-old  girl in front of her family in Phoenix ",
-                    "url": "https://www.cnn.com/2019/04/06/us/phoenix-summer-brown-road-rage-shooting/index.html"
-                },
-                {
-                    "date": "2019-03-24",
-                    "title": "Man is arrested in kicking of an elderly woman on a subway as bystanders shot video",
-                    "url": "https://www.cnn.com/2019/03/24/us/new-york-elderly-woman-attack/index.html"
-                },
-                {
-                    "date": "2019-04-15",
-                    "title": "Man arrested in assault on transgender woman in Dallas",
-                    "url": "https://www.cnn.com/2019/04/15/us/dallas-transgender-assault-arrest/index.html"
-                }
-            ]
-        },
-        "Iraq War": {
-            "results": [
-                {
-                    "date": "2019-04-11",
-                    "position": "left",
-                    "title": "Assange's history of angering the US ",
-                    "url": "https://www.cnn.com/2019/04/11/politics/julian-assange-us-government-leaks/index.html"
-                },
-                {
-                    "date": "2019-03-23",
-                    "position": "right",
-                    "title": "ISIS has lost its final stronghold in Syria, the Syrian Democratic Forces says ",
-                    "url": "https://www.cnn.com/2019/03/23/middleeast/isis-caliphate-end-intl/index.html"
-                },
-                {
-                    "date": "2019-03-23",
-                    "position": "left",
-                    "title": "ISIS has lost its final stronghold in Syria, the Syrian Democratic Forces says ",
-                    "url": "https://www.cnn.com/2019/03/23/middleeast/isis-caliphate-end-intl/index.html"
-                },
-                {
-                    "date": "2019-02-18",
-                    "position": "right",
-                    "title": "Commander of US-backed forces fighting ISIS asks US to keep troops in Syria",
-                    "url": "https://www.cnn.com/2019/02/18/politics/sdf-commander-syria/index.html"
-                },
-                {
-                    "date": "2019-01-06",
-                    "position": "left",
-                    "title": "Two Americans accused of fighting for ISIS were captured in Syria, militia says",
-                    "url": "https://www.cnn.com/2019/01/06/middleeast/american-isis-fighter-suspects/index.html"
-                },
-                {
-                    "date": "2019-02-18",
-                    "position": "right",
-                    "title": "Commander of US-backed forces fighting ISIS asks US to keep troops in Syria",
-                    "url": "https://www.cnn.com/2019/02/18/politics/sdf-commander-syria/index.html"
-                },
-                {
-                    "date": "2019-02-28",
-                    "position": "left",
-                    "title": "Trump surprises allies, claims US-backed forces reclaimed 100% of ISIS territory in Syria",
-                    "url": "https://www.cnn.com/2019/02/28/politics/trump-isis-territory-sdf/index.html"
-                },
-                {
-                    "date": "2018-12-20",
-                    "position": "right",
-                    "title": "US military ordered to begin planning to withdraw about half the troops in Afghanistan",
-                    "url": "https://www.cnn.com/2018/12/20/politics/afghanistan-withdrawal/index.html"
-                },
-                {
-                    "date": "2018-07-25",
-                    "position": "left",
-                    "title": "The military does not belong to Donald Trump",
-                    "url": "https://www.cnn.com/2018/07/25/opinions/military-does-not-belong-to-donald-trump-starr/index.html"
-                }
-            ]
-        },
-        "Trump run for president": {
-            "results": [
-                {
-                    "date": "2019-04-13",
-                    "position": "left",
-                    "title": "Clinton has advice for Dems running against Trump in 2020",
-                    "url": "https://www.cnn.com/videos/politics/2019/04/13/hillary-clinton-advice-for-democrats-running-against-trump-2020-zakaria-sot-gps-vpx.cnn"
-                },
-                {
-                    "date": "2019-03-23",
-                    "position": "right",
-                    "title": "The first millennial is running for president. So is a 76-year-old.",
-                    "url": "https://www.cnn.com/2019/03/23/politics/2020-presidential-race-generation-gap/index.html"
-                },
-                {
-                    "date": "2019-03-26",
-                    "position": "left",
-                    "title": "As Nevada lags behind in 2020 visits, Silver State Democrats warn about ignoring the state",
-                    "url": "https://www.cnn.com/2019/03/26/politics/nevada-2020-candidates/index.html"
-                },
-                {
-                    "date": "2019-01-13",
-                    "position": "right",
-                    "title": "The two reasons so many Dems are likely running in 2020",
-                    "url": "https://www.cnn.com/2019/01/13/opinions/trump-clinton-democrats-2020-presidential-run-obeidallah/index.html"
-                },
-                {
-                    "date": "2019-04-10",
-                    "position": "left",
-                    "title": "Elizabeth Warren's campaign announces $6 million first-quarter haul as it makes huge hires in early states",
-                    "url": "https://www.cnn.com/2019/04/10/politics/elizabeth-warren-first-quarter-fundraising/index.html"
-                },
-                {
-                    "date": "2018-08-07",
-                    "position": "right",
-                    "title": "Trump may not be enough to swing Latino turnout Democrats' way",
-                    "url": "https://www.cnn.com/2018/08/07/politics/democrats-hispanics-midterm-elections-fault-lines/index.html"
-                },
-                {
-                    "date": "2019-04-17",
-                    "position": "left",
-                    "title": "The streaming wars are heating up. Netflix is even hotter",
-                    "url": "https://www.cnn.com/2019/04/17/investing/netflix-stock/index.html"
-                },
-                {
-                    "date": "2019-04-18",
-                    "position": "right",
-                    "title": "A man arrested carrying gas and lighters to St. Patrick's Cathedral booked a one-way flight to Rome",
-                    "url": "https://www.cnn.com/2019/04/18/us/st-patricks-cathedral-man-arrested-gas-lighters/index.html"
-                }
-            ]
-        },
-        "Yingying Zhang": {
-            "results": [
-                {
-                    "date": "2017-07-20",
-                    "position": "left",
-                    "title": "Missing Chinese student: Suspect pleads not guilty to kidnapping",
-                    "url": "https://www.cnn.com/2017/07/20/us/chinese-scholar-kidnapping-suspect-plea/index.html"
-                },
-                {
-                    "date": "2017-10-04",
-                    "position": "right",
-                    "title": "Illinois man could face death penalty in missing Chinese student case",
-                    "url": "https://www.cnn.com/2017/10/04/us/illinois-missing-chinese-student-suspect-charges/index.html"
-                },
-                {
-                    "date": "2017-07-05",
-                    "position": "left",
-                    "title": "Prosecutor: Suspect in Chinese student's kidnapping discussed 'ideal victim'",
-                    "url": "https://www.cnn.com/2017/07/05/us/illinois-kidnapping-suspect-bail-denied/index.html"
-                },
-                {
-                    "date": "2018-11-14",
-                    "position": "right",
-                    "title": "'Cultural genocide': How China is tearing Uyghur families apart in Xinjiang",
-                    "url": "https://www.cnn.com/2018/11/14/asia/uyghur-china-xinjiang-interview-intl/index.html"
-                },
-                {
-                    "date": "2019-03-08",
-                    "position": "left",
-                    "title": "China's technology revolution is leaving its senior citizens behind",
-                    "url": "https://www.cnn.com/2019/03/08/asia/china-senior-technology-struggle-intl/index.html"
-                },
-                {
-                    "date": "2019-01-14",
-                    "position": "right",
-                    "title": "Los Angeles teachers are on strike, leaving 600,000 students in limbo",
-                    "url": "https://www.cnn.com/2019/01/14/us/los-angeles-teachers-strike/index.html"
-                },
-                {
-                    "date": "2019-01-14",
-                    "position": "left",
-                    "title": "Los Angeles teachers are on strike, leaving 600,000 students in limbo",
-                    "url": "https://www.cnn.com/2019/01/14/us/los-angeles-teachers-strike/index.html"
-                },
-                {
-                    "date": "2019-01-08",
-                    "position": "right",
-                    "title": "Thousands of Los Angeles teachers are about to go on strike. What will happen to 600,000 students? ",
-                    "url": "https://www.cnn.com/2019/01/08/us/los-angeles-teachers-strike/index.html"
-                },
-                {
-                    "date": "2018-09-11",
-                    "position": "left",
-                    "title": "Russia kicks off massive war games, hosts Putin-Xi meeting",
-                    "url": "https://www.cnn.com/2018/09/11/asia/xi-putin-china-russia-intl/index.html"
-                }
-            ]
-        }
-    },
     "timespan": {
-        "": {
-            "results": [
-                {
-                    "date": "2019-04-18",
-                    "position": "left",
-                    "title": "Mueller had everything he needed to charge Trump with obstruction, but didn't",
-                    "url": "https://www.cnn.com/2019/04/18/politics/obstruction-charge-trump-mueller/index.html"
-                }
-            ]
-        },
         "9-11 attack": {
             "results": [
                 {
@@ -315,55 +64,85 @@
                 }
             ]
         },
-        "911 attack": {
+        "Champion League Ronaldo": {
             "results": [
                 {
-                    "date": "2019-04-18",
+                    "date": "2019-04-10",
                     "position": "left",
-                    "title": "Bobcat attacks golfer on a Connecticut course",
-                    "url": "https://www.cnn.com/2019/04/18/us/bobcat-golfer-attack-trnd/index.html"
+                    "title": "Ronaldo scores 125th Champions League goal but Juventus held by Ajax",
+                    "url": "https://edition.cnn.com/2019/04/10/football/ajax-juventus-champions-league-spt-intl/index.html"
                 },
                 {
-                    "date": "2019-04-16",
+                    "date": "2019-03-12",
                     "position": "right",
-                    "title": "Canadian police are looking for the suspect who posed as deliveryman and shot a woman with a crossbow",
-                    "url": "https://www.cnn.com/2019/04/16/americas/fake-delivery-man-crossbow/index.html"
+                    "title": "Cristiano Ronaldo hat-trick keeps Juve's Champions League dream alive",
+                    "url": "https://edition.cnn.com/2019/03/12/football/juventus-atletico-madrid-champions-league-man-city-schalke-spt-intl/index.html"
                 },
                 {
-                    "date": "2019-04-14",
+                    "date": "2018-10-25",
                     "position": "left",
-                    "title": "A cassowary, a rare emu-like bird, attacks and kills Florida man, officials say",
-                    "url": "https://www.cnn.com/2019/04/14/us/cassowary-bird-kills-florida-man/index.html"
+                    "title": "Can anyone stop Juventus winning the Champions League?",
+                    "url": "https://edition.cnn.com/2018/10/25/football/champions-league-juventus-ronaldo-spt-intl/index.html"
                 },
                 {
-                    "date": "2019-03-02",
+                    "date": "2018-09-19",
                     "position": "right",
-                    "title": "Rep. Ilhan Omar blasts GOP over poster linking her with the 9/11 attacks",
-                    "url": "https://www.cnn.com/2019/03/02/politics/west-virginia-ilhan-omar-poster/index.html"
+                    "title": "Cristiano Ronaldo cries after Champions League red card for Juventus",
+                    "url": "https://edition.cnn.com/2018/09/19/football/champions-league-juventus-ronaldo-real-madrid-spt-intl/index.html"
                 },
                 {
-                    "date": "2019-01-16",
+                    "date": "2018-08-29",
                     "position": "left",
-                    "title": "An American CEO who survived 9/11 died in the terror attack on a Kenya hotel ",
-                    "url": "https://www.cnn.com/2019/01/16/us/kenya-american-jason-spindler-killed/index.html"
+                    "title": "Can Cristiano Ronaldo and Juve realize Champions League dream?",
+                    "url": "https://edition.cnn.com/2018/08/29/football/champions-league-cristiano-ronaldo-juventus-real-madrid-group-stage-draw-spt-intl/index.html"
                 },
                 {
-                    "date": "2018-09-10",
+                    "date": "2018-08-22",
                     "position": "right",
-                    "title": "9/11: 'A gray cloud of debris rolled violently toward us...'",
-                    "url": "https://www.cnn.com/2018/09/10/opinions/9-11-avlon/index.html"
+                    "title": "Juventus can win Champions League with Cristiano Ronaldo, says Wayne Rooney",
+                    "url": "https://edition.cnn.com/2018/08/22/football/wayne-rooney-cristiano-ronaldo-juventus-champions-league/index.html"
                 },
                 {
-                    "date": "2013-07-27",
+                    "date": "2018-07-10",
                     "position": "left",
-                    "title": "September 11 Terror Attacks Fast Facts",
-                    "url": "https://www.cnn.com/2013/07/27/us/september-11-anniversary-fast-facts/index.html"
+                    "title": "Cristiano Ronaldo leaves Real Madrid for Juventus as 'new chapter' begins",
+                    "url": "https://edition.cnn.com/2018/07/10/football/cristiano-ronaldo-real-madrid-juventus-spt-intl/index.html"
                 },
                 {
-                    "date": "2012-04-04",
+                    "date": "2018-04-04",
                     "position": "right",
-                    "title": "Khalid Sheikh Mohammed, 4 others charged in 9/11 attack",
-                    "url": "https://www.cnn.com/2012/04/04/us/khalid-9-11-charges/index.html"
+                    "title": "Cristiano Ronaldo: 'Playstation goal' is talk of the world",
+                    "url": "https://edition.cnn.com/2018/04/04/sport/cristiano-ronaldo-goal-champions-league/index.html"
+                },
+                {
+                    "date": "2017-05-03",
+                    "position": "left",
+                    "title": "Cristiano Ronaldo: The numbers that define a Champions League legend",
+                    "url": "https://edition.cnn.com/2017/05/03/sport/cristiano-ronaldo-champions-league-hattricks/index.html"
+                },
+                {
+                    "date": "2016-05-28",
+                    "position": "right",
+                    "title": "Cristiano Ronaldo fires Real Madrid to Champions League glory",
+                    "url": "https://edition.cnn.com/2016/05/28/football/real-madrid-champions-league-atletico/index.html"
+                },
+                {
+                    "date": "2016-03-08",
+                    "position": "left",
+                    "title": "Champions League: Real Madrid cruise past Roma to quarterfinal",
+                    "url": "https://edition.cnn.com/2016/03/08/football/champions-league-real-madrid-vs-roma/index.html"
+                },
+                {
+                    "date": "2016-02-17",
+                    "position": "right",
+                    "title": "Champions League: Cristiano Ronaldo fires Real Madrid to victory",
+                    "url": "https://edition.cnn.com/2016/02/17/sport/champions-league-real-madrid-ronaldo/index.html"
+                },
+                {
+                    "date": "2013-01-14",
+                    "position": "left",
+                    "title": "Ronaldo admits Real's Champions League 'anxiety'",
+                    "url": "https://edition.cnn.com/2013/01/14/sport/football/ronaldo-real-madrid-football/index.html"
                 }
             ]
         },
@@ -377,218 +156,252 @@
                 }
             ]
         },
-        "Kim Jung Un Trump Meet": {
+        "Fukushima Daiichi nuclear disaster": {
             "results": [
+                {
+                    "date": "2019-04-15",
+                    "position": "left",
+                    "title": "Nuclear fuel rods from Fukushima disaster reactor 3 are now being painstakingly removed",
+                    "url": "https://www.cnn.com/2019/04/15/asia/japan-fukushima-nuclear-fuel-rods-removal-scli-intl/index.html"
+                },
+                {
+                    "date": "2018-09-07",
+                    "position": "right",
+                    "title": "Japan recognizes first death related to Fukushima cleanup",
+                    "url": "https://www.cnn.com/2018/09/07/health/japan-first-fukushima-death/index.html"
+                },
+                {
+                    "date": "2016-03-08",
+                    "position": "left",
+                    "title": "Fukushima: Five years after Japan's worst nuclear disaster",
+                    "url": "https://www.cnn.com/2016/03/08/asia/fukushima-five-year-anniversary/index.html"
+                },
+                {
+                    "date": "2014-05-21",
+                    "position": "right",
+                    "title": "Inside Fukushima Daiichi: Visiting one of the most dangerous places on earth",
+                    "url": "https://www.cnn.com/2014/05/21/world/asia/japan-fukushima-visit-ripley/index.html"
+                },
+                {
+                    "date": "2014-03-12",
+                    "position": "left",
+                    "title": "Interactive: How Fukushima changed world's attitudes to nuclear power",
+                    "url": "http://edition.cnn.com/2014/03/12/business/nuclear-power-after-fukushima/index.html"
+                },
+                {
+                    "date": "2014-02-24",
+                    "position": "right",
+                    "title": "Some residents to 'come home' to Fukushima nuclear disaster zone",
+                    "url": "https://www.cnn.com/2014/02/24/world/asia/japan-fukushima-residents-return/index.html"
+                },
+                {
+                    "date": "2012-02-17",
+                    "position": "left",
+                    "title": "U.S. nuclear plants similar to Fukushima spark concerns",
+                    "url": "https://www.cnn.com/2012/02/17/us/us-nuclear-reactor-concerns/index.html"
+                }
+            ]
+        },
+        "ISIS Claim terrorist": {
+            "results": [
+                {
+                    "date": "2019-04-17",
+                    "title": "US officials say more than 2,000 suspected foreign ISIS fighters being held in Syria",
+                    "url": "https://www.cnn.com/2019/04/17/politics/foreign-isis-fighters-syria/index.html"
+                },
                 {
                     "date": "2019-04-12",
-                    "position": "left",
-                    "title": "Kim says US must stop 'current way of calculation' to continue nuke talks",
-                    "url": "https://www.cnn.com/2019/04/12/politics/kim-jong-un-donald-trump-nuclear-talks/index.html"
+                    "title": "At least 20 killed in market blast in Pakistani city of Quetta",
+                    "url": "https://www.cnn.com/2019/04/12/asia/quetta-market-blast-intl/index.html"
                 },
                 {
-                    "date": "2019-04-03",
-                    "position": "right",
-                    "title": "Officials say Kim warned his generals ahead of Trump summit",
-                    "url": "https://www.cnn.com/2019/04/03/politics/north-korea-summit-warning/index.html"
+                    "date": "2019-01-16",
+                    "title": "4 Americans among those killed in Syria attack claimed by ISIS",
+                    "url": "https://www.cnn.com/2019/01/16/politics/syria-attack-us-patrolled-city/index.html"
                 },
                 {
-                    "date": "2019-03-24",
-                    "position": "left",
-                    "title": "Rubio doesn't believe Kim Jong Un will 'ever' give up nukes",
-                    "url": "https://www.cnn.com/2019/03/24/politics/marco-rubio-north-korea-donald-trump/index.html"
+                    "date": "2018-10-22",
+                    "title": "Counterterrorism official contradicts Trump: No sign ISIS or 'Sunni terrorist groups' are in caravan",
+                    "url": "https://www.cnn.com/2018/10/22/politics/caravan-terrorism-trump/index.html"
                 },
                 {
-                    "date": "2019-01-02",
-                    "position": "right",
-                    "title": "Trump says they are still working to set up 2nd Kim Jong Un meeting",
-                    "url": "https://www.cnn.com/2019/01/02/politics/trump-kim-jong-un-meeting/index.html"
+                    "date": "2018-05-16",
+                    "title": "US has 1,000 open ISIS investigations but a steep drop in prosecutions",
+                    "url": "https://www.cnn.com/2018/05/16/politics/isis-us-arrests-investigations-terrorism/index.html"
                 },
                 {
-                    "date": "2018-12-02",
-                    "position": "left",
-                    "title": "President Trump says next meeting with North Korean leader Kim Jong Un likely in early 2019",
-                    "url": "https://www.cnn.com/2018/12/02/politics/trump-kim-jong-un-meeting-summit/index.html"
+                    "date": "2018-05-14",
+                    "title": "Terror group JAD linked to Indonesia family suicide attacks",
+                    "url": "https://www.cnn.com/2018/05/14/asia/jad-indonesia-terror-intl/index.html"
                 },
                 {
-                    "date": "2018-06-20",
-                    "position": "right",
-                    "title": "Kim Jong Un ends visit to China with a message for the US",
-                    "url": "https://www.cnn.com/2018/06/20/politics/kim-xi-meeting-trump-summit/index.html"
+                    "date": "2018-05-12",
+                    "title": "Attacker yells 'Allahu Akbar,' stabs five in Paris before police take him down",
+                    "url": "https://edition.cnn.com/2018/05/12/europe/paris-stabbing-attack/index.html"
                 },
                 {
-                    "date": "2018-06-11",
-                    "position": "left",
-                    "title": "President Trump, Kim Jong Un meet in Singapore",
-                    "url": "https://www.cnn.com/videos/politics/2018/06/11/donald-trump-kim-jong-un-summit-handshake.cnn"
+                    "date": "2017-11-03",
+                    "title": "ISIS calls New York terror attack suspect a 'soldier of the caliphate' ",
+                    "url": "https://www.cnn.com/2017/11/03/us/new-york-terror-attack/index.html"
                 },
                 {
-                    "date": "2018-05-11",
-                    "position": "right",
-                    "title": "The surprise coalition of Trump critics supporting the Kim Jong Un meeting",
-                    "url": "https://www.cnn.com/2018/05/11/politics/poll-trump-critics-north-korea-kim-jong-un-meeting/index.html"
+                    "date": "2015-12-17",
+                    "title": "ISIS goes global: 143 attacks in 29 countries have killed 2,043",
+                    "url": "https://www.cnn.com/2015/12/17/world/mapping-isis-attacks-around-the-world/index.html"
                 },
                 {
-                    "date": "2018-03-08",
-                    "position": "left",
-                    "title": "Trump accepts offer to meet Kim Jong Un",
-                    "url": "https://www.cnn.com/2018/03/08/politics/donald-trump-kim-jong-un/index.html"
+                    "date": "2015-12-05",
+                    "title": "San Bernardino shooters 'supporters' of ISIS, terror group says ",
+                    "url": "https://www.cnn.com/2015/12/05/us/san-bernardino-shooting/index.html"
                 },
                 {
-                    "date": "2017-05-01",
-                    "position": "right",
-                    "title": "Trump: I'd be 'honored' to meet Kim Jong Un under 'right circumstances'",
-                    "url": "https://www.cnn.com/2017/05/01/politics/donald-trump-meet-north-korea-kim-jong-un/index.html"
+                    "date": "2014-08-08",
+                    "title": "ISIS Fast Facts",
+                    "url": "https://www.cnn.com/2014/08/08/world/isis-fast-facts/index.html"
                 }
             ]
         },
-        "Kris Wu": {
+        "Olympic game 2012 london": {
             "results": [
                 {
-                    "date": "2017-11-09",
+                    "date": "2012-08-10",
                     "position": "left",
-                    "title": "Ex-K pop star set to crack the US",
-                    "url": "https://www.cnn.com/2017/11/09/asia/kris-wu-hip-hop-rap-exo-china/index.html"
+                    "title": "London 2012: The women's Olympics?",
+                    "url": "https://www.cnn.com/2012/08/10/sport/london-olympics-women/index.html"
                 },
                 {
-                    "date": "2017-07-26",
+                    "date": "2012-08-01",
                     "position": "right",
-                    "title": "La vida de Cara Delevingne y Rihanna en \u2018Valerian y la ciudad de los mil planetas\u2019",
-                    "url": "https://cnnespanol.cnn.com/2017/07/26/la-vida-de-cara-delevingne-y-rihanna-en-valerian-y-la-ciudad-de-los-mil-planetas/"
+                    "title": "'The Social Media Games': How hashtags and likes are shaping London 2012",
+                    "url": "https://www.cnn.com/2012/08/01/sport/olympics-2012-social-media-london/index.html"
                 },
                 {
-                    "date": "2016-07-29",
+                    "date": "2012-07-27",
                     "position": "left",
-                    "title": "Ed Hartwell's side of his split with Keshia Knight Pulliam",
-                    "url": "https://www.cnn.com/2016/07/29/entertainment/ed-hartwell-keshia-knight-pulliam/index.html"
+                    "title": "London Olympics by the numbers",
+                    "url": "https://www.cnn.com/2012/07/27/world/olympics-numbers/index.html"
                 },
                 {
-                    "date": "2014-09-11",
+                    "date": "2012-07-12",
                     "position": "right",
-                    "title": "Kendall Jenner comes into focus",
-                    "url": "http://www.cnn.com/2014/09/11/living/kendall-jenner-model-nyfw/index.html"
+                    "title": "Olympic first as Saudi Arabia names two women in London 2012 team",
+                    "url": "https://www.cnn.com/2012/07/12/sport/olympics-saudi-female-athletes/index.html"
                 },
                 {
-                    "date": "2012-03-17",
+                    "date": "2011-11-25",
                     "position": "left",
-                    "title": "Why CNN reported 'Slavery's Last Stronghold'",
-                    "url": "http://thecnnfreedomproject.blogs.cnn.com/2012/03/17/why-cnn-reported-slaverys-last-stronghold/"
+                    "title": "Art of the Olympic Games: London's grand designs",
+                    "url": "https://www.cnn.com/2011/11/25/sport/olympics-2012-poster-emin/index.html"
+                },
+                {
+                    "date": "2011-11-14",
+                    "position": "right",
+                    "title": "Missiles to protect London 2012 Olympics",
+                    "url": "https://www.cnn.com/2011/11/14/sport/olympics-london-security-missiles/index.html"
                 }
             ]
         },
-        "Trade War": {
+        "Sri Lanka Easter bombings": {
             "results": [
                 {
-                    "date": "2019-03-20",
-                    "title": "Trump says China tariffs may stay for 'a substantial period of time'",
-                    "url": "https://www.cnn.com/2019/03/20/politics/us-china-trade-war-trump-tariffs/index.html"
+                    "date": "2019-04-22",
+                    "position": "left",
+                    "title": "Sri Lanka fears international terror link to Easter Sunday atrocities",
+                    "url": "https://www.cnn.com/2019/04/22/asia/sri-lanka-investigation-easter-attacks/index.html"
                 },
                 {
-                    "date": "2019-02-11",
-                    "title": "There's a trade war with China. Here's why most Americans haven't noticed",
-                    "url": "https://www.cnn.com/2019/02/11/politics/china-trade-trump-businesses/index.html"
+                    "date": "2019-04-21",
+                    "position": "right",
+                    "title": "How the Sri Lanka attacks unfolded",
+                    "url": "https://www.cnn.com/2019/04/21/asia/sri-lanka-attacks-explainer-intl/index.html"
                 },
                 {
-                    "date": "2019-01-03",
-                    "title": "Why the US would never win a trade war with China",
-                    "url": "https://www.cnn.com/2019/01/03/perspectives/us-china-trade-war/index.html"
+                    "date": "2018-10-26",
+                    "position": "left",
+                    "title": "5 things to know for October 26: Package bombs, migrant caravan, drug prices, Koreas",
+                    "url": "https://www.cnn.com/2018/10/26/us/five-things-october-26-trnd/index.html"
                 },
                 {
-                    "date": "2018-09-23",
-                    "title": "Trump's trade war with China just got a whole lot bigger",
-                    "url": "https://www.cnn.com/2018/09/23/politics/trump-trade-war-china/index.html"
+                    "date": "2017-07-13",
+                    "position": "right",
+                    "title": "Asia's exploited elephants ",
+                    "url": "https://www.cnn.com/2017/07/13/asia/gallery/asia-elephants-exploited/index.html"
                 },
                 {
-                    "date": "2018-08-23",
-                    "title": "Trade war: The US and China just slapped new tariffs on each other",
-                    "url": "https://www.cnn.com/2018/08/23/politics/china-us-tariffs/index.html"
+                    "date": "2017-04-09",
+                    "position": "left",
+                    "title": "ISIS claims responsibility for Palm Sunday church bombings in Egypt",
+                    "url": "https://www.cnn.com/2017/04/09/middleeast/egypt-church-explosion/index.html"
                 },
                 {
-                    "date": "2018-07-05",
-                    "title": "Chinese company producing Trump 2020 flags despite looming trade war",
-                    "url": "https://www.cnn.com/2018/07/05/politics/china-trade-trump-2020-flags/index.html"
+                    "date": "2017-01-09",
+                    "position": "right",
+                    "title": "Traslacion 2017",
+                    "url": "https://www.cnn.com/2017/01/09/asia/gallery/black-nazarene/index.html"
                 },
                 {
-                    "date": "2018-06-15",
-                    "title": "China: 'The US has launched a trade war'",
-                    "url": "https://money.cnn.com/2018/06/15/news/economy/china-us-trade-war/index.html"
+                    "date": "2015-08-02",
+                    "position": "left",
+                    "title": "Bras become protest symbol in Hong Kong",
+                    "url": "https://www.cnn.com/2015/08/02/asia/gallery/hong-kong-breast-assault-protest/index.html"
                 },
                 {
-                    "date": "2018-06-03",
-                    "title": "\n        thanks for visiting cnnmoney.\n    ",
-                    "url": "https://money.cnn.com/2018/06/03/investing/stocks-week-ahead-trade-war-trump/index.html"
+                    "date": "2015-03-13",
+                    "position": "right",
+                    "title": "U.S.-South Korea annual war games",
+                    "url": "https://www.cnn.com/2015/03/13/asia/gallery/us-korea-military-drill/index.html"
+                },
+                {
+                    "date": "2015-02-04",
+                    "position": "left",
+                    "title": "TransAsia plane crashes into river in Taiwan ",
+                    "url": "https://www.cnn.com/2015/02/04/asia/gallery/taiwan-transasia-plane-crash/index.html"
+                },
+                {
+                    "date": "2013-01-24",
+                    "position": "right",
+                    "title": "Kim Jong Un and North Korea's military",
+                    "url": "https://www.cnn.com/2013/01/24/asia/gallery/north-korean-military/index.html"
+                },
+                {
+                    "date": "2010-03-25",
+                    "position": "left",
+                    "title": "Is the church scandal being used as a weapon against Pope?",
+                    "url": "http://connecttheworld.blogs.cnn.com/2010/03/25/what-has-the-abuse-scandal-done-to-you-as-a-catholic/"
                 }
             ]
         },
-        "Trump meet with Kim": {
+        "Trump meet Kim Jong Un": {
             "results": [
                 {
-                    "date": "2019-04-19",
-                    "title": "5 things to know for April 19: Mueller report, Notre Dame, Russia & N. Korea, storms",
-                    "url": "https://www.cnn.com/2019/04/19/us/five-things-april-19-trnd/index.html"
-                },
-                {
-                    "date": "2019-04-17",
-                    "title": "Meet the judge who took on Donald Trump",
-                    "url": "https://www.cnn.com/2019/04/17/politics/judge-carlton-reeves-donald-trump/index.html"
-                },
-                {
-                    "date": "2019-04-17",
-                    "title": "US envoy heads to Moscow as rumors of Putin-Kim meeting heat up",
-                    "url": "https://www.cnn.com/2019/04/17/asia/north-korea-putin-kim-intl/index.html"
+                    "date": "2019-04-23",
+                    "position": "left",
+                    "title": "Kim Jong Un arrives in Vladivostok ahead of first meeting with Putin",
+                    "url": "https://www.cnn.com/2019/04/23/asia/kim-jong-un-vladimir-putin-summit-intl/index.html"
                 },
                 {
                     "date": "2019-04-14",
+                    "position": "right",
                     "title": "Trump's third date with Kim will likely be as unsuccessful as the last one",
                     "url": "https://www.cnn.com/2019/04/14/opinions/presidential-weekly-briefing-trump-third-summit-kim-vinograd/index.html"
                 },
                 {
                     "date": "2019-04-11",
+                    "position": "left",
                     "title": "The high-stakes meeting Trump hopes will help end the North Korea stalemate",
                     "url": "https://www.cnn.com/2019/04/11/politics/trump-moon-korea-meeting/index.html"
                 },
                 {
                     "date": "2019-03-28",
+                    "position": "right",
                     "title": "Trump and Moon to meet in Washington amid North Korea impasse",
                     "url": "https://www.cnn.com/2019/03/28/politics/trump-moon-meeting-intl/index.html"
                 },
                 {
-                    "date": "2019-03-24",
-                    "title": "Rubio doesn't believe Kim Jong Un will 'ever' give up nukes",
-                    "url": "https://www.cnn.com/2019/03/24/politics/marco-rubio-north-korea-donald-trump/index.html"
-                }
-            ]
-        },
-        "Trump meet with Kim Korea": {
-            "results": [
-                {
-                    "date": "2019-04-17",
+                    "date": "2019-02-27",
                     "position": "left",
-                    "title": "US envoy heads to Moscow as rumors of Putin-Kim meeting heat up",
-                    "url": "https://www.cnn.com/2019/04/17/asia/north-korea-putin-kim-intl/index.html"
-                },
-                {
-                    "date": "2019-04-11",
-                    "position": "right",
-                    "title": "The high-stakes meeting Trump hopes will help end the North Korea stalemate",
-                    "url": "https://www.cnn.com/2019/04/11/politics/trump-moon-korea-meeting/index.html"
-                },
-                {
-                    "date": "2019-03-28",
-                    "position": "left",
-                    "title": "Trump and Moon to meet in Washington amid North Korea impasse",
-                    "url": "https://www.cnn.com/2019/03/28/politics/trump-moon-meeting-intl/index.html"
-                },
-                {
-                    "date": "2019-03-24",
-                    "position": "right",
-                    "title": "Rubio doesn't believe Kim Jong Un will 'ever' give up nukes",
-                    "url": "https://www.cnn.com/2019/03/24/politics/marco-rubio-north-korea-donald-trump/index.html"
-                },
-                {
-                    "date": "2019-02-21",
-                    "position": "left",
-                    "title": "Trump, Kim to meet one-on-one next week",
-                    "url": "https://www.cnn.com/2019/02/21/politics/trump-kim-summit-meeting/index.html"
+                    "title": "See Trump meet Kim Jong Un in second historic summit",
+                    "url": "https://www.cnn.com/videos/politics/2019/02/27/donald-trump-kim-jong-un-meeting-vietnam-sot-vpx-newday.cnn"
                 },
                 {
                     "date": "2018-12-02",
@@ -597,10 +410,10 @@
                     "url": "https://www.cnn.com/2018/12/02/politics/trump-kim-jong-un-meeting-summit/index.html"
                 },
                 {
-                    "date": "2018-09-24",
+                    "date": "2018-06-12",
                     "position": "left",
-                    "title": "Trump says second meeting with North Korea's Kim could be 'quite soon'",
-                    "url": "https://www.cnn.com/2018/09/24/politics/donald-trump-united-nations-north-korea-meeting/index.html"
+                    "title": "Trump meets Kim Jong Un for unprecedented talks",
+                    "url": "https://www.cnn.com/videos/politics/2018/06/12/trump-kim-jong-un-summit-wrap-ripley-pkg.cnn"
                 },
                 {
                     "date": "2018-06-11",
@@ -615,196 +428,116 @@
                     "url": "https://www.cnn.com/2018/06/06/politics/donald-trump-potential-second-day-meeting-kim-jong-un/index.html"
                 },
                 {
-                    "date": "2018-05-24",
-                    "position": "right",
-                    "title": "Trump cancels Singapore summit in letter to Kim Jong Un",
-                    "url": "https://www.cnn.com/2018/05/24/politics/trump-north-korea/index.html"
-                },
-                {
-                    "date": "2018-05-10",
-                    "position": "left",
-                    "title": "Trump announces North Korea summit will be in Singapore ",
-                    "url": "https://www.cnn.com/2018/05/10/politics/singapore-donald-trump-kim-jong-un/index.html"
-                },
-                {
                     "date": "2018-03-08",
                     "position": "right",
                     "title": "Trump accepts offer to meet Kim Jong Un",
                     "url": "https://www.cnn.com/2018/03/08/politics/donald-trump-kim-jong-un/index.html"
-                }
-            ]
-        },
-        "U.S. China Trade  War": {
-            "results": [
-                {
-                    "date": "2019-03-20",
-                    "title": "Trump says China tariffs may stay for 'a substantial period of time'",
-                    "url": "https://www.cnn.com/2019/03/20/politics/us-china-trade-war-trump-tariffs/index.html"
                 },
                 {
-                    "date": "2019-03-03",
-                    "title": "Trump and Xi could meet this month to end the US-China trade war",
-                    "url": "https://www.cnn.com/2019/03/03/asia/trump-xi-trade-war-deal-intl/index.html"
-                },
-                {
-                    "date": "2019-02-28",
-                    "title": "US ditches China tariff hike 'until further notice'",
-                    "url": "https://www.cnn.com/2019/02/28/business/us-china-trade-war-tariffs/index.html"
-                },
-                {
-                    "date": "2019-02-05",
-                    "title": "The US-China trade war could benefit Europe, Mexico and Japan",
-                    "url": "https://www.cnn.com/2019/02/05/business/us-china-trade-war-europe/index.html"
-                },
-                {
-                    "date": "2019-01-03",
-                    "title": "Why the US would never win a trade war with China",
-                    "url": "https://www.cnn.com/2019/01/03/perspectives/us-china-trade-war/index.html"
-                },
-                {
-                    "date": "2018-09-18",
-                    "title": "After 'major escalation' in US-China trade war, what happens next?",
-                    "url": "https://www.cnn.com/2018/09/18/politics/china-us-tariffs/index.html"
-                },
-                {
-                    "date": "2018-08-23",
-                    "title": "Trade war: The US and China just slapped new tariffs on each other",
-                    "url": "https://www.cnn.com/2018/08/23/politics/china-us-tariffs/index.html"
-                },
-                {
-                    "date": "2018-07-05",
-                    "title": "The US-China trade war is about to get real",
-                    "url": "https://money.cnn.com/2018/07/05/news/economy/us-china-trade-war-tariffs/index.html"
-                },
-                {
-                    "date": "2018-07-04",
-                    "title": "Here's What Will Happen When China and U.S. Tariffs Take Effect Friday",
-                    "url": "https://fortune.com/2018/07/04/china-us-trade-war-tariffs-friday/"
-                },
-                {
-                    "date": "2018-06-15",
-                    "title": "China: 'The US has launched a trade war'",
-                    "url": "https://money.cnn.com/2018/06/15/news/economy/china-us-trade-war/index.html"
-                },
-                {
-                    "date": "2018-05-30",
-                    "title": "US-China trade battle: Catch up here",
-                    "url": "https://money.cnn.com/2018/05/30/news/economy/trump-china-us-tariffs-trade-timeline/index.html"
-                },
-                {
-                    "date": "2018-05-29",
-                    "title": "The trade war is back on: Trump gets tough on China ahead of new trade talks",
-                    "url": "https://www.usatoday.com/story/news/politics/2018/05/29/trade-war-trump-gets-tough-china-ahead-new-trade-talks/651493002/"
+                    "date": "2017-05-01",
+                    "position": "left",
+                    "title": "Trump: I'd be 'honored' to meet Kim Jong Un under 'right circumstances'",
+                    "url": "https://www.cnn.com/2017/05/01/politics/donald-trump-meet-north-korea-kim-jong-un/index.html"
                 }
             ]
         },
         "U.S. China Trade War": {
             "results": [
                 {
-                    "date": "2019-04-17",
+                    "date": "2019-04-24",
                     "position": "left",
-                    "title": "China GDP surprise; PepsiCo reports; EU strikes back",
-                    "url": "https://www.cnn.com/2019/04/17/investing/premarket-stocks-trading/index.html"
-                },
-                {
-                    "date": "2019-04-15",
-                    "position": "right",
-                    "title": "Jimmy Carter, Trump discuss administration's China trade talks ",
-                    "url": "https://www.cnn.com/2019/04/15/politics/jimmy-carter-trump-china/index.html"
-                },
-                {
-                    "date": "2019-04-14",
-                    "position": "left",
-                    "title": "America's banks are big. China's are massive",
-                    "url": "https://www.cnn.com/2019/04/14/investing/stocks-week-ahead-big-banks-china-earnings/index.html"
-                },
-                {
-                    "date": "2019-04-04",
-                    "position": "right",
-                    "title": "Trump says 'granddaddy' US-China trade pact could be done in 'weeks'",
-                    "url": "https://www.cnn.com/2019/04/04/politics/trump-chinese-xi-trade-summit/index.html"
-                },
-                {
-                    "date": "2019-04-03",
-                    "position": "left",
-                    "title": "Trump welcomes Chinese trade negotiators amid border drama",
-                    "url": "https://www.cnn.com/2019/04/03/politics/us-china-trade-talks/index.html"
+                    "title": "US and China to resume talks in bid to end damaging trade war",
+                    "url": "https://www.cnn.com/2019/04/24/politics/us-china-trade-talks/index.html"
                 },
                 {
                     "date": "2019-03-27",
                     "position": "right",
-                    "title": "US trade deficit falls 15% as Americans buy less from China",
-                    "url": "https://www.cnn.com/2019/03/27/politics/trade-deficit-china/index.html"
-                },
-                {
-                    "date": "2019-03-27",
-                    "position": "left",
                     "title": "No matter what trade deal is struck, the US and China are worlds apart. Huawei is the proof",
                     "url": "https://www.cnn.com/2019/03/27/asia/huawei-us-lawsuit-china-intl/index.html"
                 },
                 {
                     "date": "2019-03-20",
-                    "position": "right",
+                    "position": "left",
                     "title": "Trump says China tariffs may stay for 'a substantial period of time'",
                     "url": "https://www.cnn.com/2019/03/20/politics/us-china-trade-war-trump-tariffs/index.html"
-                }
-            ]
-        },
-        "UM ceremony": {
-            "results": [
-                {
-                    "date": "2019-02-14",
-                    "position": "left",
-                    "title": "America's fight with Huawei is messing with the world's 5G plans",
-                    "url": "https://www.cnn.com/2019/02/14/tech/huawei-nokia-ericsson-5g/index.html"
                 },
                 {
-                    "date": "2018-05-28",
+                    "date": "2019-03-03",
                     "position": "right",
-                    "title": "Donald Trump just put the 'Me' in his Memorial Day tweet",
-                    "url": "https://www.cnn.com/2018/05/28/politics/donald-trump-memorial-day-tweet/index.html"
+                    "title": "Trump and Xi could meet this month to end the US-China trade war",
+                    "url": "https://www.cnn.com/2019/03/03/asia/trump-xi-trade-war-deal-intl/index.html"
                 },
                 {
-                    "date": "2018-05-13",
+                    "date": "2019-02-28",
                     "position": "left",
-                    "title": "The unassuming building that exposes bitter Middle East divide",
-                    "url": "https://www.cnn.com/2018/05/13/middleeast/jerusalem-us-embassy-divide-intl/index.html"
+                    "title": "US ditches China tariff hike 'until further notice'",
+                    "url": "https://www.cnn.com/2019/02/28/business/us-china-trade-war-tariffs/index.html"
                 },
                 {
-                    "date": "2018-04-22",
+                    "date": "2019-02-05",
                     "position": "right",
-                    "title": "Who was Jack Johnson, the boxer who Trump posthumously pardoned?",
-                    "url": "https://www.cnn.com/2018/04/22/politics/jack-johnson-who-is/index.html"
+                    "title": "The US-China trade war could benefit Europe, Mexico and Japan",
+                    "url": "https://www.cnn.com/2019/02/05/business/us-china-trade-war-europe/index.html"
                 },
                 {
-                    "date": "2016-08-01",
+                    "date": "2019-01-03",
                     "position": "left",
-                    "title": "Biden makes debut as wedding officiant for two staffers",
-                    "url": "https://www.cnn.com/2016/08/01/politics/joe-biden-officiates-wedding/index.html"
+                    "title": "Why the US would never win a trade war with China",
+                    "url": "https://www.cnn.com/2019/01/03/perspectives/us-china-trade-war/index.html"
                 },
                 {
-                    "date": "2015-03-26",
+                    "date": "2018-09-18",
                     "position": "right",
-                    "title": "Richard III, King found under a parking lot, finally laid to rest",
-                    "url": "https://edition.cnn.com/2015/03/26/europe/king-richard-buried/index.html"
+                    "title": "After 'major escalation' in US-China trade war, what happens next?",
+                    "url": "https://www.cnn.com/2018/09/18/politics/china-us-tariffs/index.html"
                 },
                 {
-                    "date": "2013-02-25",
+                    "date": "2018-08-23",
                     "position": "left",
-                    "title": "Sorry, Seth MacFarlane, but not everybody loved you",
-                    "url": "https://www.cnn.com/2013/02/25/showbiz/tv/seth-macfarlane-oscar-hosting/index.html"
+                    "title": "Trade war: The US and China just slapped new tariffs on each other",
+                    "url": "https://www.cnn.com/2018/08/23/politics/china-us-tariffs/index.html"
                 },
                 {
-                    "date": "2012-07-13",
+                    "date": "2018-07-05",
                     "position": "right",
-                    "title": "For 2014 Olympics, Team USA uniforms to be made in the United States",
-                    "url": "https://www.cnn.com/2012/07/13/sport/us-uniform-controversy/index.html"
+                    "title": "The US-China trade war is about to get real",
+                    "url": "https://money.cnn.com/2018/07/05/news/economy/us-china-trade-war-tariffs/index.html"
                 },
                 {
-                    "date": "2010-05-04",
+                    "date": "2018-07-04",
                     "position": "left",
-                    "title": "\"Welcome to the Hollywood Walk of... oops!\"",
-                    "url": "http://marquee.blogs.cnn.com/2010/05/04/welcome-to-the-hollywood-walk-of-oops/"
+                    "title": "Here's What Will Happen When China and U.S. Tariffs Take Effect Friday",
+                    "url": "https://fortune.com/2018/07/04/china-us-trade-war-tariffs-friday/"
+                },
+                {
+                    "date": "2018-06-15",
+                    "position": "right",
+                    "title": "China: 'The US has launched a trade war'",
+                    "url": "https://money.cnn.com/2018/06/15/news/economy/china-us-trade-war/index.html"
+                },
+                {
+                    "date": "2018-05-30",
+                    "position": "left",
+                    "title": "US-China trade battle: Catch up here",
+                    "url": "https://money.cnn.com/2018/05/30/news/economy/trump-china-us-tariffs-trade-timeline/index.html"
+                },
+                {
+                    "date": "2018-05-29",
+                    "position": "right",
+                    "title": "The trade war is back on: Trump gets tough on China ahead of new trade talks",
+                    "url": "https://www.usatoday.com/story/news/politics/2018/05/29/trade-war-trump-gets-tough-china-ahead-new-trade-talks/651493002/"
+                },
+                {
+                    "date": "2018-05-21",
+                    "position": "left",
+                    "title": "Analysis: 3 tough questions after US-China trade truce",
+                    "url": "https://money.cnn.com/2018/05/21/news/economy/us-china-trade-war-deficit/index.html"
+                },
+                {
+                    "date": "2018-04-10",
+                    "position": "right",
+                    "title": "How a US-China trade war could hurt (and help) others",
+                    "url": "https://money.cnn.com/2018/04/10/news/economy/us-china-trade-war-fallout-countries/index.html"
                 }
             ]
         },
@@ -860,261 +593,422 @@
                 }
             ]
         },
-        "YingYing Zhang Disappearance": {
+        "laliga": {
             "results": [
                 {
-                    "date": "2017-10-04",
+                    "date": "2018-10-17",
                     "position": "left",
-                    "title": "Illinois man could face death penalty in missing Chinese student case",
-                    "url": "https://www.cnn.com/2017/10/04/us/illinois-missing-chinese-student-suspect-charges/index.html"
+                    "title": "Real Madrid protests La Liga's Miami match plan",
+                    "url": "https://edition.cnn.com/2018/10/17/football/real-madrid-la-liga-match-united-states-barcelona-girona-spt-intl/index.html"
                 },
                 {
-                    "date": "2017-07-20",
+                    "date": "2018-10-05",
                     "position": "right",
-                    "title": "Missing Chinese student: Suspect pleads not guilty to kidnapping",
-                    "url": "https://www.cnn.com/2017/07/20/us/chinese-scholar-kidnapping-suspect-plea/index.html"
+                    "title": "Javier Tebas: US La Liga game will happen",
+                    "url": "https://www.cnn.com/videos/sports/2018/10/05/javier-tebas-la-liga-president-us-match-neymar-ronaldo-football-spt-intl.cnn"
                 },
                 {
-                    "date": "2017-07-12",
+                    "date": "2018-08-23",
                     "position": "left",
-                    "title": "Suspect indicted in Chinese student's disappearance ",
-                    "url": "https://www.cnn.com/2017/07/12/us/chinese-scholar-kidnapping-suspect-indicted/index.html"
+                    "title": "La Liga players 'outraged' and threaten strike action over US match ",
+                    "url": "https://edition.cnn.com/2018/08/23/football/la-liga-strike-united-states-spt-intl/index.html"
                 },
                 {
-                    "date": "2017-07-05",
+                    "date": "2018-08-14",
                     "position": "right",
-                    "title": "Prosecutor: Suspect in Chinese student's kidnapping discussed 'ideal victim'",
-                    "url": "https://www.cnn.com/2017/07/05/us/illinois-kidnapping-suspect-bail-denied/index.html"
+                    "title": "Facebook to broadcast La Liga games for free in India",
+                    "url": "https://money.cnn.com/2018/08/14/technology/la-liga-facebook/index.html"
                 },
                 {
-                    "date": "2017-07-04",
+                    "date": "2016-09-21",
                     "position": "left",
-                    "title": "Why did Illinois kidnapping suspect attend rally for victim?",
-                    "url": "https://www.cnn.com/2017/07/04/us/illinois-kidnapping-suspect-rally/index.html"
+                    "title": "Real Madrid: Zinedine Zidane's side misses chance to set new La Liga record",
+                    "url": "https://edition.cnn.com/2016/09/21/football/real-madrid-villarreal-la-liga-record-17-games-barcelona-atletico-madrid/index.html"
                 },
                 {
-                    "date": "2017-06-30",
+                    "date": "2014-05-17",
                     "position": "right",
-                    "title": "FBI arrests man in disappearance of Chinese grad student",
-                    "url": "https://www.cnn.com/2017/06/30/us/chinese-scholar-disappearance-kidnapping/index.html"
-                },
-                {
-                    "date": "2017-06-29",
-                    "position": "left",
-                    "title": "Missing student's family has theories on disappearance",
-                    "url": "https://www.cnn.com/2017/06/29/us/chinese-scholar-disappearance-family-speaks/index.html"
-                },
-                {
-                    "date": "2017-06-20",
-                    "position": "right",
-                    "title": "FBI treating visiting scholar's disappearance as kidnapping",
-                    "url": "https://www.cnn.com/2017/06/20/us/chinese-scholar-disappearance-kidnapping-trnd/index.html"
+                    "title": "Atletico Madrid crowned La Liga champions",
+                    "url": "http://edition.cnn.com/2014/05/17/sport/football/football-barcelona-atletico/index.html"
                 }
             ]
         },
-        "Yingying Zhang": {
-            "results": [
-                {
-                    "date": "2017-10-04",
-                    "position": "left",
-                    "title": "Illinois man could face death penalty in missing Chinese student case",
-                    "url": "https://www.cnn.com/2017/10/04/us/illinois-missing-chinese-student-suspect-charges/index.html"
-                },
-                {
-                    "date": "2017-07-20",
-                    "position": "right",
-                    "title": "Missing Chinese student: Suspect pleads not guilty to kidnapping",
-                    "url": "https://www.cnn.com/2017/07/20/us/chinese-scholar-kidnapping-suspect-plea/index.html"
-                },
-                {
-                    "date": "2017-07-12",
-                    "position": "left",
-                    "title": "Suspect indicted in Chinese student's disappearance ",
-                    "url": "https://www.cnn.com/2017/07/12/us/chinese-scholar-kidnapping-suspect-indicted/index.html"
-                },
-                {
-                    "date": "2017-07-05",
-                    "position": "right",
-                    "title": "Prosecutor: Suspect in Chinese student's kidnapping discussed 'ideal victim'",
-                    "url": "https://www.cnn.com/2017/07/05/us/illinois-kidnapping-suspect-bail-denied/index.html"
-                },
-                {
-                    "date": "2017-07-04",
-                    "position": "left",
-                    "title": "What we know about the FetLife fetish site",
-                    "url": "https://www.cnn.com/2017/07/04/us/fetlife-illinois-kidnapping-suspect/index.html"
-                },
-                {
-                    "date": "2017-07-02",
-                    "position": "right",
-                    "title": "Suspect in student's kidnapping linked to abduction fantasy web page, FBI says",
-                    "url": "https://www.cnn.com/2017/07/02/us/chinese-scholar-kidnapping-suspect/index.html"
-                },
-                {
-                    "date": "2017-06-29",
-                    "position": "left",
-                    "title": "Missing student's family has theories on disappearance",
-                    "url": "https://www.cnn.com/2017/06/29/us/chinese-scholar-disappearance-family-speaks/index.html"
-                },
-                {
-                    "date": "2017-06-20",
-                    "position": "right",
-                    "title": "FBI treating visiting scholar's disappearance as kidnapping",
-                    "url": "https://www.cnn.com/2017/06/20/us/chinese-scholar-disappearance-kidnapping-trnd/index.html"
-                }
-            ]
+        "laliga Wu Lei": {
+            "results": []
         },
-        "arab spring": {
+        "premier league": {
             "results": [
                 {
-                    "date": "2019-04-13",
+                    "date": "2019-04-24",
                     "position": "left",
-                    "title": "'Arab Spring 2.0' is a reboot full of bugs",
-                    "url": "https://www.cnn.com/2019/04/13/middleeast/npw-arab-spring-sudan-analysis-intl/index.html"
+                    "title": "Shane Long makes history with fastest ever Premier League goal",
+                    "url": "https://edition.cnn.com/2019/04/24/football/shane-long-premier-league-fastest-goal-spt-intl/index.html"
                 },
                 {
-                    "date": "2019-04-10",
+                    "date": "2019-04-23",
                     "position": "right",
-                    "title": "Ryanair apologizes after preventing refugee from boarding flight ",
-                    "url": "https://edition.cnn.com/2019/04/10/europe/ryanair-denies-boarding-activist-scli-intl/index.html"
+                    "title": "Man Utd vs. Man City: Mancunian derby could decide Premier League race",
+                    "url": "https://edition.cnn.com/2019/04/23/sport/manchester-united-manchester-city-epl-spt-intl/index.html"
                 },
                 {
-                    "date": "2018-08-03",
+                    "date": "2019-04-21",
                     "position": "left",
-                    "title": "Reliving the Arab Spring's promise, and disappointment",
-                    "url": "https://www.cnn.com/videos/world/2018/08/03/arab-spring-david-kirkpatrick-amanpour.cnn"
+                    "title": "Liverpool regain top spot in the Premier League with win over Cardiff",
+                    "url": "https://edition.cnn.com/2019/04/21/football/premier-league-manchester-united-everton-spt-intl/index.html"
                 },
                 {
-                    "date": "2015-03-27",
+                    "date": "2019-04-20",
                     "position": "right",
-                    "title": "Arab Spring aftermath: Revolutions give way to violence, more unrest",
-                    "url": "https://www.cnn.com/2015/03/27/middleeast/arab-spring-aftermath/index.html"
+                    "title": "Man City return to top of Premier League with victory over Tottenham",
+                    "url": "https://edition.cnn.com/2019/04/20/football/premier-league-tottenham-manchester-city-spt-intl/index.html"
                 },
                 {
-                    "date": "2013-07-27",
+                    "date": "2019-04-05",
                     "position": "left",
-                    "title": "2011 Africa and Middle East Unrest Fast Facts",
-                    "url": "https://www.cnn.com/2013/07/27/world/2011-africa-and-middle-east-unrest-fast-facts/index.html"
-                },
-                {
-                    "date": "2011-10-21",
-                    "position": "right",
-                    "title": "The Arab Spring: A Different Picture",
-                    "url": "https://www.cnn.com/2011/10/21/world/africa/gadhafi-arab-spring-leaders/index.html"
-                },
-                {
-                    "date": "2011-09-16",
-                    "position": "left",
-                    "title": "Wall Street protesters inspired by Arab Spring movement",
-                    "url": "https://www.cnn.com/2011/09/16/tech/social-media/twitter-occupy-wall-street/index.html"
-                }
-            ]
-        },
-        "columbine": {
-            "results": [
-                {
-                    "date": "2019-04-17",
-                    "title": "Website thought connected to woman 'infatuated' with Columbine massacre draws FBI attention",
-                    "url": "https://www.cnn.com/2019/04/17/us/columbine-threat-search-for-woman/index.html"
-                },
-                {
-                    "date": "2019-04-16",
-                    "title": "Manhunt underway after 'credible threat' at Columbine High",
-                    "url": "https://www.cnn.com/videos/us/2019/04/16/columbine-high-school-colorado-credible-threat-mclean-tsr-vpx.cnn"
+                    "title": "Mohamed Salah scores stunning goal as Liverpool go top of Premier League ",
+                    "url": "https://edition.cnn.com/2019/04/05/football/liverpool-southampton-english-premier-league-agents-fees-money-epl-spt-intl/index.html"
                 },
                 {
                     "date": "2019-03-30",
-                    "title": "Columbine students start campaign to share images of their death if they're killed in gun violence",
-                    "url": "https://www.cnn.com/2019/03/30/us/columbine-gun-violence-campaign/index.html"
+                    "position": "right",
+                    "title": "Manchester City brushes aside woeful Fulham to go top of Premier League",
+                    "url": "https://edition.cnn.com/2019/03/30/football/fulham-manchester-city-premier-league-spt-intl/index.html"
                 },
                 {
-                    "date": "2018-12-13",
-                    "title": "Bomb threats made at Columbine High School, site of 1999 shooting ",
-                    "url": "https://www.cnn.com/2018/12/13/us/columbine-bomb-threat/index.html"
+                    "date": "2019-03-28",
+                    "position": "left",
+                    "title": "Ole Gunnar Solskjaer confirmed as Manchester United manager ",
+                    "url": "https://edition.cnn.com/2019/03/28/football/manchester-united-ole-gunnar-solskjaer-old-trafford-manager-spt-intl/index.html"
                 },
                 {
-                    "date": "2018-11-02",
-                    "title": "2 Kentucky high school students suspended after dressing as the Columbine shooters for Halloween",
-                    "url": "https://www.cnn.com/2018/11/02/us/kentucky-girls-columbine-shooter-halloween-costume/index.html"
+                    "date": "2019-03-17",
+                    "position": "right",
+                    "title": "Liverpool back to top of Premier League after victory over Fulham",
+                    "url": "https://edition.cnn.com/2019/03/17/sport/liverpool-fulham-premier-league-spt-intl/index.html"
                 },
                 {
-                    "date": "2018-04-20",
-                    "title": "Columbine survivors and Parkland students rally for change 19 years after massacre",
-                    "url": "https://www.cnn.com/2018/04/20/us/columbine-anniversary-parkland-students/index.html"
+                    "date": "2019-02-24",
+                    "position": "left",
+                    "title": "Liverpool ties Manchester United in Premier League but was it two points dropped? ",
+                    "url": "https://edition.cnn.com/2019/02/24/football/manchester-united-liverpool-football-premier-league-spt-intl/index.html"
                 },
                 {
-                    "date": "2018-02-15",
-                    "title": "How Columbine changed the way police respond to mass shootings",
-                    "url": "https://www.cnn.com/2018/02/15/us/florida-school-shooting-columbine-lessons/index.html"
+                    "date": "2019-01-04",
+                    "position": "right",
+                    "title": "Why history is with Liverpool in thrilling English Premier League title race",
+                    "url": "https://edition.cnn.com/2019/01/04/football/liverpool-manchester-city-premier-league-spt-intl/index.html"
                 },
                 {
-                    "date": "2013-09-18",
-                    "title": "Columbine High School Shootings Fast Facts",
-                    "url": "https://www.cnn.com/2013/09/18/us/columbine-high-school-shootings-fast-facts/index.html"
+                    "date": "2018-12-30",
+                    "position": "left",
+                    "title": "Man City bounces back but Guardiola says it must beat Liverpool to keep EPL title race alive",
+                    "url": "https://edition.cnn.com/2018/12/30/football/epl-man-city-chelsea-win-spt-intl/index.html"
                 },
                 {
-                    "date": "2012-12-15",
-                    "title": "School shooting triggers 'mind battle' for Columbine victims",
-                    "url": "https://www.cnn.com/2012/12/15/us/connecticut-shooting-columbine-survivors/index.html"
+                    "date": "2018-11-16",
+                    "position": "right",
+                    "title": "Fans slam Premier League boss' $6.4 million 'golden handshake' ",
+                    "url": "https://edition.cnn.com/2018/11/16/football/premier-league-richard-scudamore-retirement-payout-gbr-spt-intl/index.html"
                 },
                 {
-                    "date": "2012-10-04",
-                    "title": "Suspect planned to re-create Columbine massacre, police say",
-                    "url": "https://edition.cnn.com/2012/10/04/world/europe/spain-arrest/index.html"
+                    "date": "2018-11-13",
+                    "position": "left",
+                    "title": "Susanna Dinnage appointed new Premier League chief executive",
+                    "url": "https://edition.cnn.com/2018/11/13/football/susanna-dinnage-replaces-richard-scuadmore-premier-league-chief-executive-spt-intl/index.html"
+                },
+                {
+                    "date": "2018-10-05",
+                    "position": "right",
+                    "title": "Premier League title race wide open, says ex-Liverpool star Bruce Grobbelaar",
+                    "url": "https://edition.cnn.com/2018/10/05/sport/liverpool-manchester-city-bruce-grobbelaar-spt-intl/index.html"
+                },
+                {
+                    "date": "2018-06-07",
+                    "position": "left",
+                    "title": "Soccer binge! Amazon will show 20 Premier League matches in UK",
+                    "url": "https://money.cnn.com/2018/06/07/media/amazon-premier-league-rights/index.html"
+                },
+                {
+                    "date": "2018-04-15",
+                    "position": "right",
+                    "title": "Manchester City wins English Premier League title after rivals Manchester United stumble",
+                    "url": "https://edition.cnn.com/2018/04/15/football/manchester-city-manchester-united-english-premier-league-title/index.html"
+                },
+                {
+                    "date": "2017-08-15",
+                    "position": "left",
+                    "title": "How the Premier League became a global playground",
+                    "url": "https://edition.cnn.com/2017/08/15/football/premier-league-25-anniversary-english-first-division-global/index.html"
+                },
+                {
+                    "date": "2017-08-11",
+                    "position": "right",
+                    "title": "Twenty five memorable Premier League moments ",
+                    "url": "https://edition.cnn.com/2017/08/11/football/premier-league-25-years-iconic-moments/index.html"
+                },
+                {
+                    "date": "2017-07-21",
+                    "position": "left",
+                    "title": "Premier League passion - and romance - in Hong Kong",
+                    "url": "https://edition.cnn.com/2017/07/21/football/english-premier-league-hong-kong-liverpool/index.html"
+                },
+                {
+                    "date": "2016-05-02",
+                    "position": "right",
+                    "title": "Leicester wins Premier League title as Chelsea holds Tottenham",
+                    "url": "https://edition.cnn.com/2016/05/02/football/leicester-tottenham-chelsea-premier-league-football/index.html"
                 }
             ]
         },
-        "ruan zhi ming": {
-            "results": []
-        },
-        "university of michigan ceremony": {
+        "premier league Man City 2019": {
             "results": [
                 {
-                    "date": "2018-11-28",
+                    "date": "2019-04-24",
                     "position": "left",
-                    "title": "Obama says Fox News viewers, New York Times readers live in 'entirely different' realities",
-                    "url": "https://www.cnn.com/2018/11/28/politics/barack-obama-media-climate/index.html"
+                    "title": "Manchester City returns to top of EPL table with derby win",
+                    "url": "https://edition.cnn.com/2019/04/24/sport/manchester-united-manchester-city-premier-league-apt-intl/index.html"
                 },
                 {
-                    "date": "2018-08-27",
+                    "date": "2019-04-20",
                     "position": "right",
-                    "title": "The last time Detroit honored Aretha Franklin",
-                    "url": "https://www.cnn.com/2018/08/27/entertainment/aretha-franklin-detroit-tribute/index.html"
+                    "title": "Man City return to top of Premier League with victory over Tottenham",
+                    "url": "https://edition.cnn.com/2019/04/20/football/premier-league-tottenham-manchester-city-spt-intl/index.html"
                 },
                 {
-                    "date": "2018-08-07",
+                    "date": "2019-03-30",
                     "position": "left",
-                    "title": "USC president steps down after campus gynecologist scandal",
-                    "url": "https://www.cnn.com/2018/08/07/us/usc-president-steps-down/index.html"
+                    "title": "Manchester City brushes aside woeful Fulham to go top of Premier League",
+                    "url": "https://edition.cnn.com/2019/03/30/football/fulham-manchester-city-premier-league-spt-intl/index.html"
                 },
                 {
-                    "date": "2018-05-25",
+                    "date": "2019-03-28",
                     "position": "right",
-                    "title": "USC president steps down in wake of lawsuits against school, gynecologist",
-                    "url": "https://www.cnn.com/2018/05/25/us/usc-president-to-resign/index.html"
+                    "title": "Ole Gunnar Solskjaer confirmed as Manchester United manager ",
+                    "url": "https://edition.cnn.com/2019/03/28/football/manchester-united-ole-gunnar-solskjaer-old-trafford-manager-spt-intl/index.html"
                 },
                 {
-                    "date": "2014-05-26",
+                    "date": "2019-01-04",
                     "position": "left",
-                    "title": "A commencement speech that energized a nation",
-                    "url": "https://www.cnn.com/2014/05/26/opinion/zelizer-commencement-speech-lbj/index.html"
+                    "title": "Why history is with Liverpool in thrilling English Premier League title race",
+                    "url": "https://edition.cnn.com/2019/01/04/football/liverpool-manchester-city-premier-league-spt-intl/index.html"
                 },
                 {
-                    "date": "2014-05-04",
+                    "date": "2019-01-02",
                     "position": "right",
-                    "title": "Condoleezza Rice declines to speak at Rutgers after student protests",
-                    "url": "https://www.cnn.com/2014/05/04/us/condoleeza-rice-rutgers-protests/index.html"
+                    "title": "Mo Salah: Can Liverpool keep hold of 'the greatest Egyptian player'?",
+                    "url": "https://edition.cnn.com/2019/01/02/football/mo-salah-mido-egypt-liverpool-manchester-city-premier-league-spt-intl-gbr/index.html"
                 },
                 {
-                    "date": "2011-10-09",
+                    "date": "2018-10-05",
                     "position": "left",
-                    "title": "Mobile phone: Weapon against global poverty",
-                    "url": "https://www.cnn.com/2011/10/09/tech/mobile/mobile-phone-poverty/index.html"
+                    "title": "Premier League title race wide open, says ex-Liverpool star Bruce Grobbelaar",
+                    "url": "https://edition.cnn.com/2018/10/05/sport/liverpool-manchester-city-bruce-grobbelaar-spt-intl/index.html"
+                },
+                {
+                    "date": "2018-07-28",
+                    "position": "right",
+                    "title": "Video streaming services changing the way we watch football",
+                    "url": "https://edition.cnn.com/2018/07/28/football/manchester-city-amazon-prime-juventus-spt-intl/index.html"
+                },
+                {
+                    "date": "2018-04-15",
+                    "position": "left",
+                    "title": "Manchester City wins English Premier League title after rivals Manchester United stumble",
+                    "url": "https://edition.cnn.com/2018/04/15/football/manchester-city-manchester-united-english-premier-league-title/index.html"
+                },
+                {
+                    "date": "2018-04-07",
+                    "position": "right",
+                    "title": "Manchester City stunned by rivals Manchester United in thrilling derby",
+                    "url": "https://edition.cnn.com/2018/04/07/football/manchester-city-manchester-united-english-premier-league/index.html"
                 }
             ]
         },
-        "wuwukai": {
-            "results": []
+        "terrorist incidents linked to ISIL": {
+            "results": [
+                {
+                    "date": "2019-01-16",
+                    "position": "left",
+                    "title": "4 Americans among those killed in Syria attack claimed by ISIS",
+                    "url": "https://www.cnn.com/2019/01/16/politics/syria-attack-us-patrolled-city/index.html"
+                },
+                {
+                    "date": "2018-12-25",
+                    "position": "right",
+                    "title": "ISIS claims deadly bombing in Iraq",
+                    "url": "https://www.cnn.com/2018/12/25/middleeast/iraq-car-bomb-isis-claim/index.html"
+                },
+                {
+                    "date": "2018-12-05",
+                    "position": "left",
+                    "title": "Terrorism deaths down in 2017, but far-right terrorism rising, report says",
+                    "url": "https://www.cnn.com/2018/12/05/politics/global-terrorism-index-2018/index.html"
+                },
+                {
+                    "date": "2018-09-23",
+                    "position": "right",
+                    "title": "ISIS video claims to show attackers of Iranian military parade",
+                    "url": "https://www.cnn.com/2018/09/23/middleeast/isis-video-iran-military-parade/index.html"
+                },
+                {
+                    "date": "2015-12-17",
+                    "position": "left",
+                    "title": "ISIS goes global: 143 attacks in 29 countries have killed 2,043",
+                    "url": "https://www.cnn.com/2015/12/17/world/mapping-isis-attacks-around-the-world/index.html"
+                },
+                {
+                    "date": "2015-12-08",
+                    "position": "right",
+                    "title": "2015 Paris Terror Attacks Fast Facts",
+                    "url": "https://edition.cnn.com/2015/12/08/europe/2015-paris-terror-attacks-fast-facts/index.html"
+                },
+                {
+                    "date": "2015-12-05",
+                    "position": "left",
+                    "title": "San Bernardino shooters 'supporters' of ISIS, terror group says ",
+                    "url": "https://www.cnn.com/2015/12/05/us/san-bernardino-shooting/index.html"
+                },
+                {
+                    "date": "2014-08-08",
+                    "position": "right",
+                    "title": "ISIS Fast Facts",
+                    "url": "https://www.cnn.com/2014/08/08/world/isis-fast-facts/index.html"
+                },
+                {
+                    "date": "2013-07-10",
+                    "position": "left",
+                    "title": "Yemen Fast Facts",
+                    "url": "https://www.cnn.com/2013/07/10/world/meast/yemen-fast-facts/index.html"
+                }
+            ]
+        },
+        "world cup 2018": {
+            "results": [
+                {
+                    "date": "2019-03-27",
+                    "position": "left",
+                    "title": "Bayern Munich signs Lucas Hernandez for $90 million",
+                    "url": "https://edition.cnn.com/2019/03/27/football/bayern-munich-lucas-hernandez-atletico-madrid-spt-intl/index.html"
+                },
+                {
+                    "date": "2018-12-21",
+                    "position": "right",
+                    "title": "Half the globe's population watched 'best ever' World Cup",
+                    "url": "https://edition.cnn.com/2018/12/21/football/fifa-world-cup-2018-russia-france-broadcast-spt-intl/index.html"
+                },
+                {
+                    "date": "2018-06-14",
+                    "position": "left",
+                    "title": "The best photos of the 2018 World Cup",
+                    "url": "https://edition.cnn.com/2018/06/14/football/gallery/world-cup-2018/index.html"
+                },
+                {
+                    "date": "2018-06-13",
+                    "position": "right",
+                    "title": "World Cup 2018: Schedule and results",
+                    "url": "https://edition.cnn.com/2018/06/13/football/world-cup-2018-schedule-spt-intl/index.html"
+                },
+                {
+                    "date": "2018-05-15",
+                    "position": "left",
+                    "title": "Muscovites ready to welcome football fans ahead of the World Cup",
+                    "url": "https://edition.cnn.com/2018/05/15/sport/moscow-world-cup-intl-spt/index.html"
+                },
+                {
+                    "date": "2017-11-30",
+                    "position": "right",
+                    "title": "World Cup 2018: What you need to know about Friday's draw",
+                    "url": "https://edition.cnn.com/2017/11/30/football/world-cup-draw-russia-football-2018/index.html"
+                },
+                {
+                    "date": "2017-11-16",
+                    "position": "left",
+                    "title": "World Cup 2018: Goals, tears and earthquake alerts on the road to Russia ",
+                    "url": "https://edition.cnn.com/2017/11/16/football/world-cup-russia-2018-qualification-lionel-messi-neymar-brazil-england-argentina/index.html"
+                },
+                {
+                    "date": "2017-10-10",
+                    "position": "right",
+                    "title": "Syria's World Cup hopes ended as Australia come from behind to win",
+                    "url": "https://edition.cnn.com/2017/10/10/football/australia-syria-world-cup-asian-qualifier-copa/index.html"
+                },
+                {
+                    "date": "2017-03-09",
+                    "position": "left",
+                    "title": "2018 World Cup: Is Russia ready to host $10B tournament?",
+                    "url": "https://edition.cnn.com/2017/03/09/football/russia-confederations-cup-100-days-to-go/index.html"
+                }
+            ]
+        },
+        "world cup croatia": {
+            "results": [
+                {
+                    "date": "2018-07-13",
+                    "position": "left",
+                    "title": "World Cup: What's the secret to Croatia's footballing success?",
+                    "url": "https://edition.cnn.com/2018/07/13/football/croatia-world-cup-france-final-russia-2018-spt-int/index.html"
+                },
+                {
+                    "date": "2018-07-11",
+                    "position": "right",
+                    "title": "Croatia beats England in extra-time to reach first World Cup final ",
+                    "url": "https://edition.cnn.com/2018/07/11/football/croatia-england-world-cup-2018-russia/index.html"
+                },
+                {
+                    "date": "2018-07-07",
+                    "position": "left",
+                    "title": "Croatia breaks Russian hearts, eliminating World Cup host on penalties",
+                    "url": "https://edition.cnn.com/2018/07/07/football/russia-croatia-world-cup-russia-2018-spt-intl/index.html"
+                },
+                {
+                    "date": "2018-06-21",
+                    "position": "right",
+                    "title": "Argentina on the brink of early World Cup elimination after defeat by Croatia",
+                    "url": "https://edition.cnn.com/2018/06/21/football/argentina-croatia-lionel-messi-world-cup-russia-2018-spt-intl/index.html"
+                },
+                {
+                    "date": "2018-06-15",
+                    "position": "left",
+                    "title": "Dejan Lovren: A child refugee ... now he will play in the World Cup final",
+                    "url": "https://edition.cnn.com/2018/06/15/sport/dejan-lovren-croatia-world-cup-spt-intl/index.html"
+                },
+                {
+                    "date": "2018-06-14",
+                    "position": "right",
+                    "title": "The best photos of the 2018 World Cup",
+                    "url": "https://edition.cnn.com/2018/06/14/football/gallery/world-cup-2018/index.html"
+                },
+                {
+                    "date": "2018-06-07",
+                    "position": "left",
+                    "title": "World Cup: Data says Brazil and Germany in the cards for Russia 2018",
+                    "url": "https://edition.cnn.com/2018/06/07/football/world-cup-russia-2018-predictor-brazil-spt/index.html"
+                },
+                {
+                    "date": "2018-06-04",
+                    "position": "right",
+                    "title": "Your Country Needs You! What nationality means to the modern-day footballer",
+                    "url": "https://edition.cnn.com/2018/06/04/sport/nationality-football-kompany-zaha-ghoddos-world-cup/index.html"
+                },
+                {
+                    "date": "2014-06-12",
+                    "position": "left",
+                    "title": "World Cup: Neymar double gives Brazil a nervy opening win over Croatia",
+                    "url": "http://edition.cnn.com/2014/06/12/sport/football/world-cup-brazil-croatia-football/index.html"
+                },
+                {
+                    "date": "2014-06-11",
+                    "position": "right",
+                    "title": "Brazil 2014: Will World Cup redeem people's faith in football?",
+                    "url": "http://edition.cnn.com/2014/06/11/sport/football/brazil-2014-world-cup-football/index.html"
+                },
+                {
+                    "date": "2013-10-03",
+                    "position": "left",
+                    "title": "World Cup Fast Facts",
+                    "url": "https://www.cnn.com/2013/10/03/world/world-cup-fast-facts/index.html"
+                }
+            ]
         }
     }
 }
